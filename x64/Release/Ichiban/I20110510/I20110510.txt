@@ -1,0 +1,6329 @@
+
+
+AdaptiveDecode			1.000000
+Alpha			0.100000
+AudioAmp			0.000000
+AudioAmp_2			0.000000
+AudioDeviceName			0.000000
+AudioDur			0.000000
+AudioDur_2			0.000000
+AudioFreq			0.000000
+AudioFreq_2			0.000000
+AudioStim			0.000000
+AudioSweep			0.000000
+AudioWidth			0.000000
+AudioWidth_2			0.000000
+BCIForceRotationDamp			0.000000
+BCIForceRotationInertia			0.000000
+BCIForceRotationXGain			0.000000
+BCIForceRotationYGain			0.000000
+BCIForceRotationZGain			0.000000
+BCIForceTranslationDamp			0.000000
+BCIForceTranslationInertia			0.000000
+BCIForceTranslationXGain			0.000000
+BCIForceTranslationYGain			0.000000
+BCIForceTranslationZGain			0.000000
+BCIPositionRotationXGain			0.000000
+BCIPositionRotationYGain			0.000000
+BCIPositionRotationZGain			0.000000
+BCIPositionTranslationXGain			0.000000
+BCIPositionTranslationYGain			0.000000
+BCIPositionTranslationZGain			0.000000
+BCIVelocityRotationXGain			0.000000
+BCIVelocityRotationYGain			0.000000
+BCIVelocityRotationZGain			0.000000
+BCIVelocityTranslationXGain			1.000000
+BCIVelocityTranslationYGain			0.000000
+BCIVelocityTranslationZGain			1.000000
+Bias			1.000000
+BiasGain			200.000000
+BlackOut			0.000000
+CenterHoldTime			500.000000
+ControlDevice			2.000000
+ControlLoopRate			0.000000
+ControlMode			1.000000
+CurrentBlock			1.000000
+CurrentRewardTier			0.000000
+CurrentSet			1.000000
+CurrentTrial			1.000000
+CursorSize			1.500000
+ElectroActiveChan			0.000000
+ElectroActiveChan_2			0.000000
+ElectroAmp			5000.000000
+ElectroAmp_2			0.000000
+ElectroDeviceName			1.000000
+ElectroDur			10.000000
+ElectroDur_2			0.000000
+ElectroFreq			60.000000
+ElectroFreq_2			0.000000
+ElectroReturnChan			0.000000
+ElectroReturnChan_2			0.000000
+ElectroStim			0.000000
+ElectroSweep			0.000000
+ElectroWidth			50.000000
+ElectroWidth_2			0.000000
+JoystickConnectedLight			0.000000
+JoystickForceRotationDamp			0.000000
+JoystickForceRotationInertia			0.000000
+JoystickForceRotationXGain			0.000000
+JoystickForceRotationYGain			0.000000
+JoystickForceRotationZGain			0.000000
+JoystickForceTranslationDamp			0.000000
+JoystickForceTranslationInertia			0.000000
+JoystickForceTranslationXGain			0.000000
+JoystickForceTranslationYGain			0.000000
+JoystickForceTranslationZGain			0.000000
+JoystickLoopRate			0.000000
+JoystickPositionRotationXGain			0.000000
+JoystickPositionRotationYGain			0.000000
+JoystickPositionRotationZGain			0.000000
+JoystickPositionTranslationXGain			80.000000
+JoystickPositionTranslationYGain			0.000000
+JoystickPositionTranslationZGain			65.000000
+JoystickVelocityRotationXGain			0.000000
+JoystickVelocityRotationYGain			0.000000
+JoystickVelocityRotationZGain			0.000000
+JoystickVelocityTranslationXGain			0.800000
+JoystickVelocityTranslationYGain			1.000000
+JoystickVelocityTranslationZGain			0.800000
+MaxMovementTime			7000.000000
+MedtronicDur			500.000000
+MedtronicStimONOFF			0.000000
+MouseForceRotationDamp			0.000000
+MouseForceRotationInertia			0.000000
+MouseForceRotationXGain			0.000000
+MouseForceRotationYGain			0.000000
+MouseForceRotationZGain			0.000000
+MouseForceTranslationDamp			0.000000
+MouseForceTranslationInertia			0.000000
+MouseForceTranslationXGain			0.000000
+MouseForceTranslationYGain			0.000000
+MouseForceTranslationZGain			0.000000
+MousePositionRotationXGain			0.000000
+MousePositionRotationYGain			0.000000
+MousePositionRotationZGain			0.000000
+MousePositionTranslationXGain			39.000000
+MousePositionTranslationYGain			0.000000
+MousePositionTranslationZGain			26.000000
+MouseVelocityRotationXGain			0.000000
+MouseVelocityRotationYGain			0.000000
+MouseVelocityRotationZGain			0.000000
+MouseVelocityTranslationXGain			10.000000
+MouseVelocityTranslationYGain			0.100000
+MouseVelocityTranslationZGain			10.000000
+NumBlocks			1.000000
+NumRewardTiers			0.000000
+NumSets			1.000000
+NumTargets			4.000000
+NumTrials			1.000000
+PlaybackMode			0.000000
+RestPeriod			0.000000
+RewardDecrement			0.000000
+RewardDeviceName			0.000000
+RewardIncrement			0.000000
+RewardMax			300.000000
+RewardMin			100.000000
+RotationXMax			0.000000
+RotationXMin			0.000000
+RotationYMax			0.000000
+RotationYMin			0.000000
+RotationZMax			0.000000
+RotationZMin			0.000000
+SerialPortBaud			0.000000
+SerialPortLoopRate			0.000000
+SerialPortNum			0.000000
+SweepAmp			0.000000
+SweepAmpMax			0.000000
+SweepAmpMin			0.000000
+SweepAmpValue			0.000000
+SweepDur			0.000000
+SweepDurMax			0.000000
+SweepDurMin			0.000000
+SweepDurValue			0.000000
+SweepFreq			0.000000
+SweepFreqMax			0.000000
+SweepFreqMin			0.000000
+SweepFreqValue			0.000000
+SweepNumAmps			0.000000
+SweepNumDurs			0.000000
+SweepNumFreqs			0.000000
+SweepNumWidths			0.000000
+SweepWidth			0.000000
+SweepWidthMax			0.000000
+SweepWidthMin			0.000000
+SweepWidthValue			0.000000
+TDTConnectedLight			1.000000
+TDTLoopRate			0.000000
+TargetDistance			16.000000
+TargetSize			1.500000
+TimeoutTime			3000.000000
+TranslationXMax			32.000000
+TranslationXMin			-32.000000
+TranslationYMax			0.000000
+TranslationYMin			0.000000
+TranslationZMax			26.000000
+TranslationZMin			-26.000000
+TrialID			0.000000
+UseAuxiliaryRewards			0.000000
+UseRewardTiers			0.000000
+VibroAmp			3.000000
+VibroAmp_2			3.000000
+VibroAmp_3			0.000000
+VibroDeviceName			0.000000
+VibroDur			750.000000
+VibroDur_2			5000.000000
+VibroDur_3			0.000000
+VibroFreq			100.000000
+VibroFreq_2			100.000000
+VibroFreq_3			0.000000
+VibroStim			1.000000
+VibroSweep			0.000000
+WorkAround			0.000000
+
+
+
+
+Task          AdaptiveDecoding
+Trial_id          2
+Target_num        1
+Movement_time		645.700073
+
+
+Task          AdaptiveDecoding
+Trial_id          3
+Target_num        0
+Movement_time		481.718719
+
+
+Task          AdaptiveDecoding
+Trial_id          4
+Target_num        2
+Movement_time		725.463318
+
+
+Task          AdaptiveDecoding
+Trial_id          5
+Target_num        3
+Movement_time		1813.017334
+
+
+Task          AdaptiveDecoding
+Trial_id          6
+Target_num        2
+Movement_time		2621.442139
+
+
+Task          AdaptiveDecoding
+Trial_id          7
+Target_num        0
+Movement_time		2575.215088
+
+
+Task          AdaptiveDecoding
+Trial_id          8
+Target_num        1
+Movement_time		3020.134766
+
+
+AdaptiveDecode			1.000000
+Alpha			0.100000
+AudioAmp			0.000000
+AudioAmp_2			0.000000
+AudioDeviceName			0.000000
+AudioDur			0.000000
+AudioDur_2			0.000000
+AudioFreq			0.000000
+AudioFreq_2			0.000000
+AudioStim			0.000000
+AudioSweep			0.000000
+AudioWidth			0.000000
+AudioWidth_2			0.000000
+BCIForceRotationDamp			0.000000
+BCIForceRotationInertia			0.000000
+BCIForceRotationXGain			0.000000
+BCIForceRotationYGain			0.000000
+BCIForceRotationZGain			0.000000
+BCIForceTranslationDamp			0.000000
+BCIForceTranslationInertia			0.000000
+BCIForceTranslationXGain			0.000000
+BCIForceTranslationYGain			0.000000
+BCIForceTranslationZGain			0.000000
+BCIPositionRotationXGain			0.000000
+BCIPositionRotationYGain			0.000000
+BCIPositionRotationZGain			0.000000
+BCIPositionTranslationXGain			0.000000
+BCIPositionTranslationYGain			0.000000
+BCIPositionTranslationZGain			0.000000
+BCIVelocityRotationXGain			0.000000
+BCIVelocityRotationYGain			0.000000
+BCIVelocityRotationZGain			0.000000
+BCIVelocityTranslationXGain			1.000000
+BCIVelocityTranslationYGain			0.000000
+BCIVelocityTranslationZGain			1.000000
+Bias			1.000000
+BiasGain			35.000000
+BlackOut			0.000000
+CenterHoldTime			500.000000
+ControlDevice			2.000000
+ControlLoopRate			0.000000
+ControlMode			1.000000
+CurrentBlock			1.000000
+CurrentRewardTier			0.000000
+CurrentSet			1.000000
+CurrentTrial			1.000000
+CursorSize			1.500000
+ElectroActiveChan			0.000000
+ElectroActiveChan_2			0.000000
+ElectroAmp			5000.000000
+ElectroAmp_2			0.000000
+ElectroDeviceName			1.000000
+ElectroDur			10.000000
+ElectroDur_2			0.000000
+ElectroFreq			60.000000
+ElectroFreq_2			0.000000
+ElectroReturnChan			0.000000
+ElectroReturnChan_2			0.000000
+ElectroStim			0.000000
+ElectroSweep			0.000000
+ElectroWidth			50.000000
+ElectroWidth_2			0.000000
+JoystickConnectedLight			0.000000
+JoystickForceRotationDamp			0.000000
+JoystickForceRotationInertia			0.000000
+JoystickForceRotationXGain			0.000000
+JoystickForceRotationYGain			0.000000
+JoystickForceRotationZGain			0.000000
+JoystickForceTranslationDamp			0.000000
+JoystickForceTranslationInertia			0.000000
+JoystickForceTranslationXGain			0.000000
+JoystickForceTranslationYGain			0.000000
+JoystickForceTranslationZGain			0.000000
+JoystickLoopRate			0.000000
+JoystickPositionRotationXGain			0.000000
+JoystickPositionRotationYGain			0.000000
+JoystickPositionRotationZGain			0.000000
+JoystickPositionTranslationXGain			80.000000
+JoystickPositionTranslationYGain			0.000000
+JoystickPositionTranslationZGain			65.000000
+JoystickVelocityRotationXGain			0.000000
+JoystickVelocityRotationYGain			0.000000
+JoystickVelocityRotationZGain			0.000000
+JoystickVelocityTranslationXGain			0.800000
+JoystickVelocityTranslationYGain			1.000000
+JoystickVelocityTranslationZGain			0.800000
+MaxMovementTime			7000.000000
+MedtronicDur			500.000000
+MedtronicStimONOFF			0.000000
+MouseForceRotationDamp			0.000000
+MouseForceRotationInertia			0.000000
+MouseForceRotationXGain			0.000000
+MouseForceRotationYGain			0.000000
+MouseForceRotationZGain			0.000000
+MouseForceTranslationDamp			0.000000
+MouseForceTranslationInertia			0.000000
+MouseForceTranslationXGain			0.000000
+MouseForceTranslationYGain			0.000000
+MouseForceTranslationZGain			0.000000
+MousePositionRotationXGain			0.000000
+MousePositionRotationYGain			0.000000
+MousePositionRotationZGain			0.000000
+MousePositionTranslationXGain			39.000000
+MousePositionTranslationYGain			0.000000
+MousePositionTranslationZGain			26.000000
+MouseVelocityRotationXGain			0.000000
+MouseVelocityRotationYGain			0.000000
+MouseVelocityRotationZGain			0.000000
+MouseVelocityTranslationXGain			10.000000
+MouseVelocityTranslationYGain			0.100000
+MouseVelocityTranslationZGain			10.000000
+NumBlocks			1.000000
+NumRewardTiers			0.000000
+NumSets			1.000000
+NumTargets			4.000000
+NumTrials			3.000000
+PlaybackMode			0.000000
+RestPeriod			0.000000
+RewardDecrement			0.000000
+RewardDeviceName			0.000000
+RewardIncrement			0.000000
+RewardMax			300.000000
+RewardMin			100.000000
+RotationXMax			0.000000
+RotationXMin			0.000000
+RotationYMax			0.000000
+RotationYMin			0.000000
+RotationZMax			0.000000
+RotationZMin			0.000000
+SerialPortBaud			0.000000
+SerialPortLoopRate			0.000000
+SerialPortNum			0.000000
+SweepAmp			0.000000
+SweepAmpMax			0.000000
+SweepAmpMin			0.000000
+SweepAmpValue			0.000000
+SweepDur			0.000000
+SweepDurMax			0.000000
+SweepDurMin			0.000000
+SweepDurValue			0.000000
+SweepFreq			0.000000
+SweepFreqMax			0.000000
+SweepFreqMin			0.000000
+SweepFreqValue			0.000000
+SweepNumAmps			0.000000
+SweepNumDurs			0.000000
+SweepNumFreqs			0.000000
+SweepNumWidths			0.000000
+SweepWidth			0.000000
+SweepWidthMax			0.000000
+SweepWidthMin			0.000000
+SweepWidthValue			0.000000
+TDTConnectedLight			1.000000
+TDTLoopRate			0.000000
+TargetDistance			16.000000
+TargetSize			1.500000
+TimeoutTime			3000.000000
+TranslationXMax			32.000000
+TranslationXMin			-32.000000
+TranslationYMax			0.000000
+TranslationYMin			0.000000
+TranslationZMax			26.000000
+TranslationZMin			-26.000000
+TrialID			0.000000
+UseAuxiliaryRewards			0.000000
+UseRewardTiers			0.000000
+VibroAmp			3.000000
+VibroAmp_2			3.000000
+VibroAmp_3			0.000000
+VibroDeviceName			0.000000
+VibroDur			750.000000
+VibroDur_2			5000.000000
+VibroDur_3			0.000000
+VibroFreq			100.000000
+VibroFreq_2			100.000000
+VibroFreq_3			0.000000
+VibroStim			1.000000
+VibroSweep			0.000000
+WorkAround			0.000000
+
+
+
+
+Task          AdaptiveDecoding
+Trial_id          11
+Target_num        2
+Movement_time		4453.162109
+
+
+Task          AdaptiveDecoding
+Trial_id          12
+Target_num        2
+Movement_time		3216.906006
+
+
+Task          AdaptiveDecoding
+Trial_id          13
+Target_num        1
+Movement_time		3449.519775
+
+
+Task          AdaptiveDecoding
+Trial_id          14
+Target_num        3
+Movement_time		2315.459717
+
+
+Task          AdaptiveDecoding
+Trial_id          15
+Target_num        0
+Movement_time		3794.344727
+
+
+Task          AdaptiveDecoding
+Trial_id          16
+Target_num        3
+Movement_time		2472.022217
+
+
+Task          AdaptiveDecoding
+Trial_id          17
+Target_num        3
+Movement_time		3906.136719
+
+
+Task          AdaptiveDecoding
+Trial_id          18
+Target_num        0
+Movement_time		3228.315186
+
+
+Task          AdaptiveDecoding
+Trial_id          19
+Target_num        1
+Movement_time		2314.268066
+
+
+Task          AdaptiveDecoding
+Trial_id          22
+Target_num        0
+Movement_time		3273.025635
+
+
+Task          AdaptiveDecoding
+Trial_id          23
+Target_num        2
+Movement_time		4616.744141
+
+
+Task          AdaptiveDecoding
+Trial_id          24
+Target_num        1
+Movement_time		3784.396240
+
+
+Task          AdaptiveDecoding
+Trial_id          25
+Target_num        3
+Movement_time		2141.605713
+
+
+Task          AdaptiveDecoding
+Trial_id          26
+Target_num        1
+Movement_time		3927.035889
+
+
+Task          AdaptiveDecoding
+Trial_id          27
+Target_num        2
+Movement_time		2636.433105
+
+
+Task          AdaptiveDecoding
+Trial_id          28
+Target_num        3
+Movement_time		3365.544922
+
+
+Task          AdaptiveDecoding
+Trial_id          29
+Target_num        2
+Movement_time		1841.666748
+
+
+Task          AdaptiveDecoding
+Trial_id          30
+Target_num        0
+Movement_time		5571.880859
+
+
+Task          AdaptiveDecoding
+Trial_id          31
+Target_num        3
+Movement_time		2638.212891
+
+
+Task          AdaptiveDecoding
+Trial_id          32
+Target_num        1
+Movement_time		3605.588867
+
+
+Task          AdaptiveDecoding
+Trial_id          33
+Target_num        0
+Movement_time		2774.399658
+
+
+Task          AdaptiveDecoding
+Trial_id          34
+Target_num        1
+Movement_time		5611.939453
+
+
+Task          AdaptiveDecoding
+Trial_id          35
+Target_num        0
+Movement_time		2660.892578
+
+
+Task          AdaptiveDecoding
+Trial_id          36
+Target_num        2
+Movement_time		2133.068848
+
+
+Task          AdaptiveDecoding
+Trial_id          37
+Target_num        3
+Movement_time		3612.008545
+
+
+Task          AdaptiveDecoding
+Trial_id          38
+Target_num        0
+Movement_time		2003.131836
+
+
+Task          AdaptiveDecoding
+Trial_id          39
+Target_num        3
+Movement_time		2522.170166
+
+
+Task          AdaptiveDecoding
+Trial_id          40
+Target_num        3
+Movement_time		1566.588013
+
+
+Task          AdaptiveDecoding
+Trial_id          41
+Target_num        0
+Movement_time		2484.251953
+
+
+Task          AdaptiveDecoding
+Trial_id          42
+Target_num        0
+Movement_time		2240.595215
+
+
+Task          AdaptiveDecoding
+Trial_id          43
+Target_num        1
+Movement_time		2694.187500
+
+
+Task          AdaptiveDecoding
+Trial_id          44
+Target_num        1
+Movement_time		2123.205811
+
+
+Task          AdaptiveDecoding
+Trial_id          45
+Target_num        2
+Movement_time		2706.914795
+
+
+Task          AdaptiveDecoding
+Trial_id          46
+Target_num        1
+Movement_time		3444.390381
+
+
+Task          AdaptiveDecoding
+Trial_id          47
+Target_num        2
+Movement_time		1840.878784
+
+
+Task          AdaptiveDecoding
+Trial_id          48
+Target_num        2
+Movement_time		1534.080322
+
+
+Task          AdaptiveDecoding
+Trial_id          49
+Target_num        0
+Movement_time		1691.580444
+
+
+Task          AdaptiveDecoding
+Trial_id          50
+Target_num        0
+Movement_time		1267.838623
+
+
+Task          AdaptiveDecoding
+Trial_id          51
+Target_num        1
+Movement_time		1770.680176
+
+
+Task          AdaptiveDecoding
+Trial_id          52
+Target_num        0
+Movement_time		1744.020508
+
+
+Task          AdaptiveDecoding
+Trial_id          53
+Target_num        2
+Movement_time		1203.082764
+
+
+Task          AdaptiveDecoding
+Trial_id          54
+Target_num        2
+Movement_time		1111.746582
+
+
+Task          AdaptiveDecoding
+Trial_id          55
+Target_num        1
+Movement_time		5984.505371
+
+
+Task          AdaptiveDecoding
+Trial_id          56
+Target_num        1
+Movement_time		3784.306641
+
+
+Task          AdaptiveDecoding
+Trial_id          57
+Target_num        3
+Movement_time		2055.311523
+
+
+Task          AdaptiveDecoding
+Trial_id          58
+Target_num        3
+Movement_time		2525.590820
+
+
+Task          AdaptiveDecoding
+Trial_id          59
+Target_num        2
+Movement_time		2013.048340
+
+
+Task          AdaptiveDecoding
+Trial_id          60
+Target_num        3
+Movement_time		2008.330688
+
+
+Task          AdaptiveDecoding
+Trial_id          61
+Target_num        1
+Movement_time		2300.427246
+
+
+Task          AdaptiveDecoding
+Trial_id          63
+Target_num        3
+Movement_time		3369.307861
+
+
+Task          AdaptiveDecoding
+Trial_id          64
+Target_num        1
+Movement_time		2733.095947
+
+
+Task          AdaptiveDecoding
+Trial_id          65
+Target_num        2
+Movement_time		1422.837646
+
+
+Task          AdaptiveDecoding
+Trial_id          66
+Target_num        0
+Movement_time		3117.979492
+
+
+Task          AdaptiveDecoding
+Trial_id          67
+Target_num        3
+Movement_time		1425.440186
+
+
+Task          AdaptiveDecoding
+Trial_id          68
+Target_num        2
+Movement_time		2381.609131
+
+
+Task          AdaptiveDecoding
+Trial_id          69
+Target_num        3
+Movement_time		2419.697998
+
+
+Task          AdaptiveDecoding
+Trial_id          70
+Target_num        1
+Movement_time		2549.722168
+
+
+Task          AdaptiveDecoding
+Trial_id          71
+Target_num        2
+Movement_time		3021.637207
+
+
+Task          AdaptiveDecoding
+Trial_id          72
+Target_num        0
+Movement_time		2230.668701
+
+
+Task          AdaptiveDecoding
+Trial_id          73
+Target_num        0
+Movement_time		2177.131836
+
+
+Task          AdaptiveDecoding
+Trial_id          74
+Target_num        0
+Movement_time		2603.117676
+
+
+Task          AdaptiveDecoding
+Trial_id          75
+Target_num        3
+Movement_time		1980.606323
+
+
+Task          AdaptiveDecoding
+Trial_id          76
+Target_num        2
+Movement_time		2171.860840
+
+
+Task          AdaptiveDecoding
+Trial_id          77
+Target_num        1
+Movement_time		1862.898315
+
+
+Task          AdaptiveDecoding
+Trial_id          78
+Target_num        2
+Movement_time		1959.591553
+
+
+Task          AdaptiveDecoding
+Trial_id          79
+Target_num        3
+Movement_time		1638.082642
+
+
+Task          AdaptiveDecoding
+Trial_id          80
+Target_num        0
+Movement_time		2179.154297
+
+
+Task          AdaptiveDecoding
+Trial_id          81
+Target_num        3
+Movement_time		1339.692871
+
+
+Task          AdaptiveDecoding
+Trial_id          82
+Target_num        0
+Movement_time		2260.897461
+
+
+Task          AdaptiveDecoding
+Trial_id          83
+Target_num        2
+Movement_time		1460.591797
+
+
+Task          AdaptiveDecoding
+Trial_id          84
+Target_num        1
+Movement_time		1973.089478
+
+
+Task          AdaptiveDecoding
+Trial_id          85
+Target_num        1
+Movement_time		2559.315430
+
+
+Task          AdaptiveDecoding
+Trial_id          86
+Target_num        3
+Movement_time		1824.404663
+
+
+Task          AdaptiveDecoding
+Trial_id          87
+Target_num        2
+Movement_time		1470.752197
+
+
+Task          AdaptiveDecoding
+Trial_id          88
+Target_num        1
+Movement_time		1820.692627
+
+
+Task          AdaptiveDecoding
+Trial_id          89
+Target_num        3
+Movement_time		1258.100342
+
+
+Task          AdaptiveDecoding
+Trial_id          90
+Target_num        2
+Movement_time		1850.836792
+
+
+Task          AdaptiveDecoding
+Trial_id          91
+Target_num        0
+Movement_time		1466.872314
+
+
+Task          AdaptiveDecoding
+Trial_id          92
+Target_num        3
+Movement_time		1954.099487
+
+
+Task          AdaptiveDecoding
+Trial_id          93
+Target_num        1
+Movement_time		1720.272583
+
+
+Task          AdaptiveDecoding
+Trial_id          94
+Target_num        2
+Movement_time		1410.451172
+
+
+Task          AdaptiveDecoding
+Trial_id          95
+Target_num        0
+Movement_time		1587.936646
+
+
+Task          AdaptiveDecoding
+Trial_id          96
+Target_num        1
+Movement_time		1985.364258
+
+
+Task          AdaptiveDecoding
+Trial_id          97
+Target_num        0
+Movement_time		1355.569946
+
+
+Task          AdaptiveDecoding
+Trial_id          98
+Target_num        3
+Movement_time		5406.881836
+
+
+Task          AdaptiveDecoding
+Trial_id          99
+Target_num        3
+Movement_time		1911.759888
+
+
+Task          AdaptiveDecoding
+Trial_id          100
+Target_num        0
+Movement_time		1796.591187
+
+
+Task          AdaptiveDecoding
+Trial_id          102
+Target_num        2
+Movement_time		2450.202637
+
+
+Task          AdaptiveDecoding
+Trial_id          103
+Target_num        1
+Movement_time		1530.612305
+
+
+Task          AdaptiveDecoding
+Trial_id          104
+Target_num        3
+Movement_time		1569.113770
+
+
+Task          AdaptiveDecoding
+Trial_id          105
+Target_num        0
+Movement_time		2562.076660
+
+
+Task          AdaptiveDecoding
+Trial_id          106
+Target_num        1
+Movement_time		2146.927734
+
+
+Task          AdaptiveDecoding
+Trial_id          107
+Target_num        0
+Movement_time		1777.148682
+
+
+Task          AdaptiveDecoding
+Trial_id          108
+Target_num        2
+Movement_time		2361.083496
+
+
+Task          AdaptiveDecoding
+Trial_id          109
+Target_num        2
+Movement_time		3397.098633
+
+
+Task          AdaptiveDecoding
+Trial_id          110
+Target_num        1
+Movement_time		2664.320557
+
+
+Task          AdaptiveDecoding
+Trial_id          111
+Target_num        1
+Movement_time		1954.051880
+
+
+Task          AdaptiveDecoding
+Trial_id          112
+Target_num        1
+Movement_time		2446.757080
+
+
+Task          AdaptiveDecoding
+Trial_id          113
+Target_num        3
+Movement_time		1851.942627
+
+
+Task          AdaptiveDecoding
+Trial_id          114
+Target_num        0
+Movement_time		1290.556641
+
+
+Task          AdaptiveDecoding
+Trial_id          115
+Target_num        1
+Movement_time		2663.129639
+
+
+Task          AdaptiveDecoding
+Trial_id          116
+Target_num        3
+Movement_time		1410.275879
+
+
+Task          AdaptiveDecoding
+Trial_id          117
+Target_num        0
+Movement_time		1836.862061
+
+
+Task          AdaptiveDecoding
+Trial_id          118
+Target_num        0
+Movement_time		2706.653564
+
+
+Task          AdaptiveDecoding
+Trial_id          119
+Target_num        3
+Movement_time		2169.245117
+
+
+Task          AdaptiveDecoding
+Trial_id          120
+Target_num        2
+Movement_time		2430.869385
+
+
+Task          AdaptiveDecoding
+Trial_id          121
+Target_num        2
+Movement_time		2457.409912
+
+
+Task          AdaptiveDecoding
+Trial_id          122
+Target_num        2
+Movement_time		1959.171509
+
+
+AdaptiveDecode			1.000000
+Alpha			0.100000
+AudioAmp			0.000000
+AudioAmp_2			0.000000
+AudioDeviceName			0.000000
+AudioDur			0.000000
+AudioDur_2			0.000000
+AudioFreq			0.000000
+AudioFreq_2			0.000000
+AudioStim			0.000000
+AudioSweep			0.000000
+AudioWidth			0.000000
+AudioWidth_2			0.000000
+BCIForceRotationDamp			0.000000
+BCIForceRotationInertia			0.000000
+BCIForceRotationXGain			0.000000
+BCIForceRotationYGain			0.000000
+BCIForceRotationZGain			0.000000
+BCIForceTranslationDamp			0.000000
+BCIForceTranslationInertia			0.000000
+BCIForceTranslationXGain			0.000000
+BCIForceTranslationYGain			0.000000
+BCIForceTranslationZGain			0.000000
+BCIPositionRotationXGain			0.000000
+BCIPositionRotationYGain			0.000000
+BCIPositionRotationZGain			0.000000
+BCIPositionTranslationXGain			0.000000
+BCIPositionTranslationYGain			0.000000
+BCIPositionTranslationZGain			0.000000
+BCIVelocityRotationXGain			0.000000
+BCIVelocityRotationYGain			0.000000
+BCIVelocityRotationZGain			0.000000
+BCIVelocityTranslationXGain			1.000000
+BCIVelocityTranslationYGain			0.000000
+BCIVelocityTranslationZGain			1.000000
+Bias			1.000000
+BiasGain			40.000000
+BlackOut			0.000000
+CenterHoldTime			500.000000
+ControlDevice			2.000000
+ControlLoopRate			0.000000
+ControlMode			1.000000
+CurrentBlock			1.000000
+CurrentRewardTier			0.000000
+CurrentSet			1.000000
+CurrentTrial			1.000000
+CursorSize			1.500000
+ElectroActiveChan			0.000000
+ElectroActiveChan_2			0.000000
+ElectroAmp			5000.000000
+ElectroAmp_2			0.000000
+ElectroDeviceName			1.000000
+ElectroDur			10.000000
+ElectroDur_2			0.000000
+ElectroFreq			60.000000
+ElectroFreq_2			0.000000
+ElectroReturnChan			0.000000
+ElectroReturnChan_2			0.000000
+ElectroStim			0.000000
+ElectroSweep			0.000000
+ElectroWidth			50.000000
+ElectroWidth_2			0.000000
+JoystickConnectedLight			0.000000
+JoystickForceRotationDamp			0.000000
+JoystickForceRotationInertia			0.000000
+JoystickForceRotationXGain			0.000000
+JoystickForceRotationYGain			0.000000
+JoystickForceRotationZGain			0.000000
+JoystickForceTranslationDamp			0.000000
+JoystickForceTranslationInertia			0.000000
+JoystickForceTranslationXGain			0.000000
+JoystickForceTranslationYGain			0.000000
+JoystickForceTranslationZGain			0.000000
+JoystickLoopRate			0.000000
+JoystickPositionRotationXGain			0.000000
+JoystickPositionRotationYGain			0.000000
+JoystickPositionRotationZGain			0.000000
+JoystickPositionTranslationXGain			80.000000
+JoystickPositionTranslationYGain			0.000000
+JoystickPositionTranslationZGain			65.000000
+JoystickVelocityRotationXGain			0.000000
+JoystickVelocityRotationYGain			0.000000
+JoystickVelocityRotationZGain			0.000000
+JoystickVelocityTranslationXGain			0.800000
+JoystickVelocityTranslationYGain			1.000000
+JoystickVelocityTranslationZGain			0.800000
+MaxMovementTime			7000.000000
+MedtronicDur			500.000000
+MedtronicStimONOFF			0.000000
+MouseForceRotationDamp			0.000000
+MouseForceRotationInertia			0.000000
+MouseForceRotationXGain			0.000000
+MouseForceRotationYGain			0.000000
+MouseForceRotationZGain			0.000000
+MouseForceTranslationDamp			0.000000
+MouseForceTranslationInertia			0.000000
+MouseForceTranslationXGain			0.000000
+MouseForceTranslationYGain			0.000000
+MouseForceTranslationZGain			0.000000
+MousePositionRotationXGain			0.000000
+MousePositionRotationYGain			0.000000
+MousePositionRotationZGain			0.000000
+MousePositionTranslationXGain			39.000000
+MousePositionTranslationYGain			0.000000
+MousePositionTranslationZGain			26.000000
+MouseVelocityRotationXGain			0.000000
+MouseVelocityRotationYGain			0.000000
+MouseVelocityRotationZGain			0.000000
+MouseVelocityTranslationXGain			10.000000
+MouseVelocityTranslationYGain			0.100000
+MouseVelocityTranslationZGain			10.000000
+NumBlocks			1.000000
+NumRewardTiers			0.000000
+NumSets			1.000000
+NumTargets			4.000000
+NumTrials			5.000000
+PlaybackMode			0.000000
+RestPeriod			0.000000
+RewardDecrement			0.000000
+RewardDeviceName			0.000000
+RewardIncrement			0.000000
+RewardMax			150.000000
+RewardMin			100.000000
+RotationXMax			0.000000
+RotationXMin			0.000000
+RotationYMax			0.000000
+RotationYMin			0.000000
+RotationZMax			0.000000
+RotationZMin			0.000000
+SerialPortBaud			0.000000
+SerialPortLoopRate			0.000000
+SerialPortNum			0.000000
+SweepAmp			0.000000
+SweepAmpMax			0.000000
+SweepAmpMin			0.000000
+SweepAmpValue			0.000000
+SweepDur			0.000000
+SweepDurMax			0.000000
+SweepDurMin			0.000000
+SweepDurValue			0.000000
+SweepFreq			0.000000
+SweepFreqMax			0.000000
+SweepFreqMin			0.000000
+SweepFreqValue			0.000000
+SweepNumAmps			0.000000
+SweepNumDurs			0.000000
+SweepNumFreqs			0.000000
+SweepNumWidths			0.000000
+SweepWidth			0.000000
+SweepWidthMax			0.000000
+SweepWidthMin			0.000000
+SweepWidthValue			0.000000
+TDTConnectedLight			1.000000
+TDTLoopRate			0.000000
+TargetDistance			16.000000
+TargetSize			1.500000
+TimeoutTime			3000.000000
+TranslationXMax			32.000000
+TranslationXMin			-32.000000
+TranslationYMax			0.000000
+TranslationYMin			0.000000
+TranslationZMax			26.000000
+TranslationZMin			-26.000000
+TrialID			0.000000
+UseAuxiliaryRewards			0.000000
+UseRewardTiers			0.000000
+VibroAmp			3.000000
+VibroAmp_2			3.000000
+VibroAmp_3			0.000000
+VibroDeviceName			0.000000
+VibroDur			750.000000
+VibroDur_2			5000.000000
+VibroDur_3			0.000000
+VibroFreq			100.000000
+VibroFreq_2			100.000000
+VibroFreq_3			0.000000
+VibroStim			1.000000
+VibroSweep			0.000000
+WorkAround			0.000000
+
+
+
+
+Task          AdaptiveDecoding
+Trial_id          124
+Target_num        1
+Movement_time		1693.082153
+
+
+Task          AdaptiveDecoding
+Trial_id          125
+Target_num        3
+Movement_time		1922.121948
+
+
+Task          AdaptiveDecoding
+Trial_id          126
+Target_num        2
+Movement_time		1814.302979
+
+
+Task          AdaptiveDecoding
+Trial_id          127
+Target_num        3
+Movement_time		2959.335693
+
+
+Task          AdaptiveDecoding
+Trial_id          128
+Target_num        3
+Movement_time		2163.064941
+
+
+Task          AdaptiveDecoding
+Trial_id          129
+Target_num        3
+Movement_time		2504.364502
+
+
+Task          AdaptiveDecoding
+Trial_id          130
+Target_num        2
+Movement_time		1949.380249
+
+
+Task          AdaptiveDecoding
+Trial_id          131
+Target_num        0
+Movement_time		1310.574951
+
+
+Task          AdaptiveDecoding
+Trial_id          132
+Target_num        1
+Movement_time		1216.764648
+
+
+Task          AdaptiveDecoding
+Trial_id          133
+Target_num        3
+Movement_time		1579.029419
+
+
+Task          AdaptiveDecoding
+Trial_id          134
+Target_num        0
+Movement_time		1488.156006
+
+
+Task          AdaptiveDecoding
+Trial_id          135
+Target_num        0
+Movement_time		1518.059570
+
+
+Task          AdaptiveDecoding
+Trial_id          136
+Target_num        0
+Movement_time		1896.760254
+
+
+Task          AdaptiveDecoding
+Trial_id          137
+Target_num        1
+Movement_time		1559.131592
+
+
+Task          AdaptiveDecoding
+Trial_id          138
+Target_num        0
+Movement_time		2420.759521
+
+
+Task          AdaptiveDecoding
+Trial_id          139
+Target_num        1
+Movement_time		1415.594727
+
+
+Task          AdaptiveDecoding
+Trial_id          140
+Target_num        1
+Movement_time		1985.567017
+
+
+Task          AdaptiveDecoding
+Trial_id          141
+Target_num        2
+Movement_time		2276.705566
+
+
+Task          AdaptiveDecoding
+Trial_id          142
+Target_num        2
+Movement_time		1881.824341
+
+
+Task          AdaptiveDecoding
+Trial_id          143
+Target_num        2
+Movement_time		2263.161621
+
+
+Task          AdaptiveDecoding
+Trial_id          144
+Target_num        0
+Movement_time		2351.883789
+
+
+Task          AdaptiveDecoding
+Trial_id          145
+Target_num        1
+Movement_time		1276.675659
+
+
+Task          AdaptiveDecoding
+Trial_id          146
+Target_num        3
+Movement_time		1474.349731
+
+
+Task          AdaptiveDecoding
+Trial_id          147
+Target_num        3
+Movement_time		1491.708374
+
+
+Task          AdaptiveDecoding
+Trial_id          148
+Target_num        3
+Movement_time		4178.207031
+
+
+Task          AdaptiveDecoding
+Trial_id          149
+Target_num        1
+Movement_time		1370.597534
+
+
+Task          AdaptiveDecoding
+Trial_id          150
+Target_num        0
+Movement_time		1960.338501
+
+
+Task          AdaptiveDecoding
+Trial_id          151
+Target_num        0
+Movement_time		2509.666016
+
+
+Task          AdaptiveDecoding
+Trial_id          152
+Target_num        3
+Movement_time		2187.971924
+
+
+Task          AdaptiveDecoding
+Trial_id          153
+Target_num        0
+Movement_time		2260.564941
+
+
+Task          AdaptiveDecoding
+Trial_id          154
+Target_num        0
+Movement_time		2228.125732
+
+
+Task          AdaptiveDecoding
+Trial_id          155
+Target_num        1
+Movement_time		3523.244141
+
+
+Task          AdaptiveDecoding
+Trial_id          156
+Target_num        2
+Movement_time		3017.995117
+
+
+Task          AdaptiveDecoding
+Trial_id          157
+Target_num        2
+Movement_time		1445.158569
+
+
+Task          AdaptiveDecoding
+Trial_id          158
+Target_num        3
+Movement_time		3001.867188
+
+
+Task          AdaptiveDecoding
+Trial_id          159
+Target_num        1
+Movement_time		1806.846069
+
+
+Task          AdaptiveDecoding
+Trial_id          160
+Target_num        1
+Movement_time		2406.489990
+
+
+Task          AdaptiveDecoding
+Trial_id          161
+Target_num        2
+Movement_time		2471.848633
+
+
+Task          AdaptiveDecoding
+Trial_id          162
+Target_num        2
+Movement_time		1681.842529
+
+
+Task          AdaptiveDecoding
+Trial_id          163
+Target_num        2
+Movement_time		2384.423096
+
+
+Task          AdaptiveDecoding
+Trial_id          164
+Target_num        3
+Movement_time		4740.264648
+
+
+Task          AdaptiveDecoding
+Trial_id          165
+Target_num        1
+Movement_time		2310.872314
+
+
+Task          AdaptiveDecoding
+Trial_id          166
+Target_num        1
+Movement_time		1708.022949
+
+
+Task          AdaptiveDecoding
+Trial_id          167
+Target_num        2
+Movement_time		2294.323730
+
+
+Task          AdaptiveDecoding
+Trial_id          168
+Target_num        0
+Movement_time		1428.119019
+
+
+Task          AdaptiveDecoding
+Trial_id          169
+Target_num        0
+Movement_time		1623.346191
+
+
+Task          AdaptiveDecoding
+Trial_id          170
+Target_num        3
+Movement_time		1588.232788
+
+
+Task          AdaptiveDecoding
+Trial_id          171
+Target_num        3
+Movement_time		5649.577148
+
+
+Task          AdaptiveDecoding
+Trial_id          172
+Target_num        2
+Movement_time		2664.332031
+
+
+Task          AdaptiveDecoding
+Trial_id          173
+Target_num        3
+Movement_time		3026.895752
+
+
+Task          AdaptiveDecoding
+Trial_id          174
+Target_num        3
+Movement_time		1439.571655
+
+
+Task          AdaptiveDecoding
+Trial_id          175
+Target_num        1
+Movement_time		3028.036133
+
+
+Task          AdaptiveDecoding
+Trial_id          176
+Target_num        0
+Movement_time		1610.690918
+
+
+Task          AdaptiveDecoding
+Trial_id          177
+Target_num        0
+Movement_time		2413.142822
+
+
+Task          AdaptiveDecoding
+Trial_id          178
+Target_num        2
+Movement_time		2372.887207
+
+
+Task          AdaptiveDecoding
+Trial_id          179
+Target_num        2
+Movement_time		3343.071045
+
+
+Task          AdaptiveDecoding
+Trial_id          180
+Target_num        0
+Movement_time		2876.933838
+
+
+Task          AdaptiveDecoding
+Trial_id          181
+Target_num        1
+Movement_time		2952.961670
+
+
+Task          AdaptiveDecoding
+Trial_id          182
+Target_num        2
+Movement_time		1901.787476
+
+
+Task          AdaptiveDecoding
+Trial_id          183
+Target_num        1
+Movement_time		2589.563232
+
+
+Task          AdaptiveDecoding
+Trial_id          184
+Target_num        1
+Movement_time		2406.640625
+
+
+Task          AdaptiveDecoding
+Trial_id          185
+Target_num        0
+Movement_time		1824.487183
+
+
+Task          AdaptiveDecoding
+Trial_id          186
+Target_num        1
+Movement_time		2137.903076
+
+
+Task          AdaptiveDecoding
+Trial_id          187
+Target_num        2
+Movement_time		2098.297852
+
+
+Task          AdaptiveDecoding
+Trial_id          188
+Target_num        1
+Movement_time		4736.901855
+
+
+Task          AdaptiveDecoding
+Trial_id          189
+Target_num        2
+Movement_time		3998.078613
+
+
+Task          AdaptiveDecoding
+Trial_id          190
+Target_num        3
+Movement_time		4902.136230
+
+
+Task          AdaptiveDecoding
+Trial_id          191
+Target_num        3
+Movement_time		2340.558838
+
+
+Task          AdaptiveDecoding
+Trial_id          192
+Target_num        1
+Movement_time		2241.846191
+
+
+Task          AdaptiveDecoding
+Trial_id          193
+Target_num        0
+Movement_time		1600.328003
+
+
+Task          AdaptiveDecoding
+Trial_id          194
+Target_num        2
+Movement_time		3311.888428
+
+
+Task          AdaptiveDecoding
+Trial_id          195
+Target_num        0
+Movement_time		1574.306030
+
+
+Task          AdaptiveDecoding
+Trial_id          196
+Target_num        0
+Movement_time		1542.114136
+
+
+Task          AdaptiveDecoding
+Trial_id          197
+Target_num        3
+Movement_time		2192.902588
+
+
+Task          AdaptiveDecoding
+Trial_id          198
+Target_num        3
+Movement_time		6891.752930
+
+
+Task          AdaptiveDecoding
+Trial_id          200
+Target_num        3
+Movement_time		5101.910156
+
+
+Task          AdaptiveDecoding
+Trial_id          201
+Target_num        1
+Movement_time		1326.800171
+
+
+Task          AdaptiveDecoding
+Trial_id          202
+Target_num        0
+Movement_time		2145.390381
+
+
+Task          AdaptiveDecoding
+Trial_id          203
+Target_num        2
+Movement_time		2848.185059
+
+
+Task          AdaptiveDecoding
+Trial_id          204
+Target_num        2
+Movement_time		1776.813232
+
+
+Task          AdaptiveDecoding
+Trial_id          205
+Target_num        3
+Movement_time		2360.465088
+
+
+Task          AdaptiveDecoding
+Trial_id          206
+Target_num        1
+Movement_time		1622.827148
+
+
+Task          AdaptiveDecoding
+Trial_id          207
+Target_num        0
+Movement_time		2255.543457
+
+
+Task          AdaptiveDecoding
+Trial_id          208
+Target_num        2
+Movement_time		3732.902100
+
+
+Task          AdaptiveDecoding
+Trial_id          209
+Target_num        2
+Movement_time		1174.381958
+
+
+Task          AdaptiveDecoding
+Trial_id          210
+Target_num        2
+Movement_time		1481.696533
+
+
+Task          AdaptiveDecoding
+Trial_id          211
+Target_num        3
+Movement_time		3300.638672
+
+
+Task          AdaptiveDecoding
+Trial_id          212
+Target_num        1
+Movement_time		1595.658447
+
+
+Task          AdaptiveDecoding
+Trial_id          213
+Target_num        0
+Movement_time		1949.053345
+
+
+Task          AdaptiveDecoding
+Trial_id          214
+Target_num        3
+Movement_time		4320.587402
+
+
+Task          AdaptiveDecoding
+Trial_id          215
+Target_num        0
+Movement_time		2338.370361
+
+
+Task          AdaptiveDecoding
+Trial_id          216
+Target_num        3
+Movement_time		2631.870361
+
+
+Task          AdaptiveDecoding
+Trial_id          217
+Target_num        0
+Movement_time		1383.198730
+
+
+Task          AdaptiveDecoding
+Trial_id          218
+Target_num        1
+Movement_time		2431.912842
+
+
+Task          AdaptiveDecoding
+Trial_id          219
+Target_num        2
+Movement_time		2122.872070
+
+
+Task          AdaptiveDecoding
+Trial_id          220
+Target_num        2
+Movement_time		4740.797363
+
+
+Task          AdaptiveDecoding
+Trial_id          221
+Target_num        0
+Movement_time		2001.902466
+
+
+Task          AdaptiveDecoding
+Trial_id          222
+Target_num        3
+Movement_time		3182.923340
+
+
+Task          AdaptiveDecoding
+Trial_id          223
+Target_num        1
+Movement_time		4819.427734
+
+
+Task          AdaptiveDecoding
+Trial_id          224
+Target_num        1
+Movement_time		3495.722168
+
+
+Task          AdaptiveDecoding
+Trial_id          226
+Target_num        2
+Movement_time		1356.939453
+
+
+Task          AdaptiveDecoding
+Trial_id          229
+Target_num        2
+Movement_time		1610.345947
+
+
+Task          AdaptiveDecoding
+Trial_id          230
+Target_num        1
+Movement_time		3262.884521
+
+
+Task          AdaptiveDecoding
+Trial_id          231
+Target_num        2
+Movement_time		3272.218750
+
+
+Task          AdaptiveDecoding
+Trial_id          232
+Target_num        2
+Movement_time		3805.607666
+
+
+Task          AdaptiveDecoding
+Trial_id          233
+Target_num        0
+Movement_time		1831.752686
+
+
+Task          AdaptiveDecoding
+Trial_id          234
+Target_num        0
+Movement_time		1396.864136
+
+
+Task          AdaptiveDecoding
+Trial_id          235
+Target_num        1
+Movement_time		1719.446899
+
+
+Task          AdaptiveDecoding
+Trial_id          236
+Target_num        0
+Movement_time		2062.973633
+
+
+Task          AdaptiveDecoding
+Trial_id          237
+Target_num        1
+Movement_time		3741.024658
+
+
+Task          AdaptiveDecoding
+Trial_id          238
+Target_num        0
+Movement_time		2298.287109
+
+
+Task          AdaptiveDecoding
+Trial_id          239
+Target_num        2
+Movement_time		4861.937012
+
+
+Task          AdaptiveDecoding
+Trial_id          240
+Target_num        3
+Movement_time		2180.827881
+
+
+Task          AdaptiveDecoding
+Trial_id          241
+Target_num        0
+Movement_time		1657.949707
+
+
+Task          AdaptiveDecoding
+Trial_id          242
+Target_num        1
+Movement_time		1423.035156
+
+
+Task          AdaptiveDecoding
+Trial_id          243
+Target_num        1
+Movement_time		2052.890625
+
+
+Task          AdaptiveDecoding
+Trial_id          244
+Target_num        3
+Movement_time		1839.467529
+
+
+Task          AdaptiveDecoding
+Trial_id          245
+Target_num        3
+Movement_time		1596.952271
+
+
+Task          AdaptiveDecoding
+Trial_id          246
+Target_num        3
+Movement_time		2610.281006
+
+
+Task          AdaptiveDecoding
+Trial_id          247
+Target_num        3
+Movement_time		1784.302490
+
+
+Task          AdaptiveDecoding
+Trial_id          248
+Target_num        1
+Movement_time		2915.585938
+
+
+Task          AdaptiveDecoding
+Trial_id          249
+Target_num        3
+Movement_time		2212.030273
+
+
+Task          AdaptiveDecoding
+Trial_id          250
+Target_num        3
+Movement_time		4824.149414
+
+
+Task          AdaptiveDecoding
+Trial_id          251
+Target_num        0
+Movement_time		1779.630859
+
+
+Task          AdaptiveDecoding
+Trial_id          252
+Target_num        0
+Movement_time		2795.481689
+
+
+Task          AdaptiveDecoding
+Trial_id          253
+Target_num        3
+Movement_time		2283.481689
+
+
+Task          AdaptiveDecoding
+Trial_id          255
+Target_num        2
+Movement_time		2295.899170
+
+
+Task          AdaptiveDecoding
+Trial_id          256
+Target_num        2
+Movement_time		2523.396729
+
+
+Task          AdaptiveDecoding
+Trial_id          258
+Target_num        0
+Movement_time		3215.674805
+
+
+Task          AdaptiveDecoding
+Trial_id          259
+Target_num        2
+Movement_time		3236.882324
+
+
+Task          AdaptiveDecoding
+Trial_id          260
+Target_num        3
+Movement_time		6980.625000
+
+
+Task          AdaptiveDecoding
+Trial_id          261
+Target_num        2
+Movement_time		2252.014893
+
+
+AdaptiveDecode			2.000000
+Alpha			0.100000
+AudioAmp			0.000000
+AudioAmp_2			0.000000
+AudioDeviceName			0.000000
+AudioDur			0.000000
+AudioDur_2			0.000000
+AudioFreq			0.000000
+AudioFreq_2			0.000000
+AudioStim			0.000000
+AudioSweep			0.000000
+AudioWidth			0.000000
+AudioWidth_2			0.000000
+BCIForceRotationDamp			0.000000
+BCIForceRotationInertia			0.000000
+BCIForceRotationXGain			0.000000
+BCIForceRotationYGain			0.000000
+BCIForceRotationZGain			0.000000
+BCIForceTranslationDamp			0.000000
+BCIForceTranslationInertia			0.000000
+BCIForceTranslationXGain			0.000000
+BCIForceTranslationYGain			0.000000
+BCIForceTranslationZGain			0.000000
+BCIPositionRotationXGain			0.000000
+BCIPositionRotationYGain			0.000000
+BCIPositionRotationZGain			0.000000
+BCIPositionTranslationXGain			0.000000
+BCIPositionTranslationYGain			0.000000
+BCIPositionTranslationZGain			0.000000
+BCIVelocityRotationXGain			0.000000
+BCIVelocityRotationYGain			0.000000
+BCIVelocityRotationZGain			0.000000
+BCIVelocityTranslationXGain			1.000000
+BCIVelocityTranslationYGain			0.000000
+BCIVelocityTranslationZGain			1.000000
+Bias			2.000000
+BiasGain			35.000000
+BlackOut			0.000000
+CenterHoldTime			500.000000
+ControlDevice			2.000000
+ControlLoopRate			0.000000
+ControlMode			1.000000
+CurrentBlock			1.000000
+CurrentRewardTier			0.000000
+CurrentSet			1.000000
+CurrentTrial			1.000000
+CursorSize			1.500000
+ElectroActiveChan			0.000000
+ElectroActiveChan_2			0.000000
+ElectroAmp			5000.000000
+ElectroAmp_2			0.000000
+ElectroDeviceName			1.000000
+ElectroDur			10.000000
+ElectroDur_2			0.000000
+ElectroFreq			60.000000
+ElectroFreq_2			0.000000
+ElectroReturnChan			0.000000
+ElectroReturnChan_2			0.000000
+ElectroStim			0.000000
+ElectroSweep			0.000000
+ElectroWidth			50.000000
+ElectroWidth_2			0.000000
+JoystickConnectedLight			0.000000
+JoystickForceRotationDamp			0.000000
+JoystickForceRotationInertia			0.000000
+JoystickForceRotationXGain			0.000000
+JoystickForceRotationYGain			0.000000
+JoystickForceRotationZGain			0.000000
+JoystickForceTranslationDamp			0.000000
+JoystickForceTranslationInertia			0.000000
+JoystickForceTranslationXGain			0.000000
+JoystickForceTranslationYGain			0.000000
+JoystickForceTranslationZGain			0.000000
+JoystickLoopRate			0.000000
+JoystickPositionRotationXGain			0.000000
+JoystickPositionRotationYGain			0.000000
+JoystickPositionRotationZGain			0.000000
+JoystickPositionTranslationXGain			80.000000
+JoystickPositionTranslationYGain			0.000000
+JoystickPositionTranslationZGain			65.000000
+JoystickVelocityRotationXGain			0.000000
+JoystickVelocityRotationYGain			0.000000
+JoystickVelocityRotationZGain			0.000000
+JoystickVelocityTranslationXGain			0.800000
+JoystickVelocityTranslationYGain			1.000000
+JoystickVelocityTranslationZGain			0.800000
+MaxMovementTime			7000.000000
+MedtronicDur			500.000000
+MedtronicStimONOFF			0.000000
+MouseForceRotationDamp			0.000000
+MouseForceRotationInertia			0.000000
+MouseForceRotationXGain			0.000000
+MouseForceRotationYGain			0.000000
+MouseForceRotationZGain			0.000000
+MouseForceTranslationDamp			0.000000
+MouseForceTranslationInertia			0.000000
+MouseForceTranslationXGain			0.000000
+MouseForceTranslationYGain			0.000000
+MouseForceTranslationZGain			0.000000
+MousePositionRotationXGain			0.000000
+MousePositionRotationYGain			0.000000
+MousePositionRotationZGain			0.000000
+MousePositionTranslationXGain			39.000000
+MousePositionTranslationYGain			0.000000
+MousePositionTranslationZGain			26.000000
+MouseVelocityRotationXGain			0.000000
+MouseVelocityRotationYGain			0.000000
+MouseVelocityRotationZGain			0.000000
+MouseVelocityTranslationXGain			10.000000
+MouseVelocityTranslationYGain			0.100000
+MouseVelocityTranslationZGain			10.000000
+NumBlocks			1.000000
+NumRewardTiers			0.000000
+NumSets			1.000000
+NumTargets			4.000000
+NumTrials			3.000000
+PlaybackMode			0.000000
+RestPeriod			0.000000
+RewardDecrement			0.000000
+RewardDeviceName			0.000000
+RewardIncrement			0.000000
+RewardMax			300.000000
+RewardMin			100.000000
+RotationXMax			0.000000
+RotationXMin			0.000000
+RotationYMax			0.000000
+RotationYMin			0.000000
+RotationZMax			0.000000
+RotationZMin			0.000000
+SerialPortBaud			0.000000
+SerialPortLoopRate			0.000000
+SerialPortNum			0.000000
+SweepAmp			0.000000
+SweepAmpMax			0.000000
+SweepAmpMin			0.000000
+SweepAmpValue			0.000000
+SweepDur			0.000000
+SweepDurMax			0.000000
+SweepDurMin			0.000000
+SweepDurValue			0.000000
+SweepFreq			0.000000
+SweepFreqMax			0.000000
+SweepFreqMin			0.000000
+SweepFreqValue			0.000000
+SweepNumAmps			0.000000
+SweepNumDurs			0.000000
+SweepNumFreqs			0.000000
+SweepNumWidths			0.000000
+SweepWidth			0.000000
+SweepWidthMax			0.000000
+SweepWidthMin			0.000000
+SweepWidthValue			0.000000
+TDTConnectedLight			1.000000
+TDTLoopRate			0.000000
+TargetDistance			16.000000
+TargetSize			1.500000
+TimeoutTime			3000.000000
+TranslationXMax			32.000000
+TranslationXMin			-32.000000
+TranslationYMax			0.000000
+TranslationYMin			0.000000
+TranslationZMax			26.000000
+TranslationZMin			-26.000000
+TrialID			0.000000
+UseAuxiliaryRewards			0.000000
+UseRewardTiers			0.000000
+VibroAmp			3.000000
+VibroAmp_2			3.000000
+VibroAmp_3			0.000000
+VibroDeviceName			0.000000
+VibroDur			750.000000
+VibroDur_2			5000.000000
+VibroDur_3			0.000000
+VibroFreq			100.000000
+VibroFreq_2			100.000000
+VibroFreq_3			0.000000
+VibroStim			2.000000
+VibroSweep			0.000000
+WorkAround			0.000000
+
+
+
+
+Task          AdaptiveDecoding
+Trial_id          264
+Target_num        2
+Movement_time		4678.514160
+
+
+Task          AdaptiveDecoding
+Trial_id          265
+Target_num        1
+Movement_time		2023.039551
+
+
+Task          AdaptiveDecoding
+Trial_id          266
+Target_num        0
+Movement_time		2695.371338
+
+
+Task          AdaptiveDecoding
+Trial_id          267
+Target_num        2
+Movement_time		1606.477051
+
+
+Task          AdaptiveDecoding
+Trial_id          268
+Target_num        3
+Movement_time		2294.296631
+
+
+Task          AdaptiveDecoding
+Trial_id          269
+Target_num        2
+Movement_time		2174.108154
+
+
+Task          AdaptiveDecoding
+Trial_id          270
+Target_num        0
+Movement_time		3147.816406
+
+
+Task          AdaptiveDecoding
+Trial_id          271
+Target_num        3
+Movement_time		3435.793213
+
+
+Task          AdaptiveDecoding
+Trial_id          272
+Target_num        1
+Movement_time		1567.690552
+
+
+Task          AdaptiveDecoding
+Trial_id          273
+Target_num        1
+Movement_time		1755.374634
+
+
+Task          AdaptiveDecoding
+Trial_id          274
+Target_num        0
+Movement_time		2037.998901
+
+
+Task          AdaptiveDecoding
+Trial_id          275
+Target_num        3
+Movement_time		2954.533936
+
+
+Task          AdaptiveDecoding
+Trial_id          276
+Target_num        0
+Movement_time		1933.443604
+
+
+Task          AdaptiveDecoding
+Trial_id          277
+Target_num        2
+Movement_time		1884.720825
+
+
+Task          AdaptiveDecoding
+Trial_id          278
+Target_num        0
+Movement_time		1318.066650
+
+
+Task          AdaptiveDecoding
+Trial_id          279
+Target_num        0
+Movement_time		1998.530762
+
+
+Task          AdaptiveDecoding
+Trial_id          280
+Target_num        2
+Movement_time		4029.701904
+
+
+Task          AdaptiveDecoding
+Trial_id          281
+Target_num        3
+Movement_time		1418.141724
+
+
+Task          AdaptiveDecoding
+Trial_id          282
+Target_num        1
+Movement_time		1611.048462
+
+
+Task          AdaptiveDecoding
+Trial_id          283
+Target_num        1
+Movement_time		3432.079102
+
+
+Task          AdaptiveDecoding
+Trial_id          284
+Target_num        2
+Movement_time		3203.395996
+
+
+Task          AdaptiveDecoding
+Trial_id          285
+Target_num        1
+Movement_time		2250.615967
+
+
+Task          AdaptiveDecoding
+Trial_id          286
+Target_num        3
+Movement_time		2224.250732
+
+
+Task          AdaptiveDecoding
+Trial_id          287
+Target_num        3
+Movement_time		2172.098389
+
+
+Task          AdaptiveDecoding
+Trial_id          288
+Target_num        0
+Movement_time		1759.544067
+
+
+Task          AdaptiveDecoding
+Trial_id          289
+Target_num        3
+Movement_time		4143.320313
+
+
+Task          AdaptiveDecoding
+Trial_id          290
+Target_num        3
+Movement_time		1622.273682
+
+
+Task          AdaptiveDecoding
+Trial_id          291
+Target_num        2
+Movement_time		2879.564697
+
+
+Task          AdaptiveDecoding
+Trial_id          292
+Target_num        2
+Movement_time		1152.394775
+
+
+Task          AdaptiveDecoding
+Trial_id          293
+Target_num        2
+Movement_time		1321.953247
+
+
+Task          AdaptiveDecoding
+Trial_id          294
+Target_num        1
+Movement_time		1975.691650
+
+
+Task          AdaptiveDecoding
+Trial_id          295
+Target_num        3
+Movement_time		2343.608154
+
+
+Task          AdaptiveDecoding
+Trial_id          296
+Target_num        0
+Movement_time		1464.877441
+
+
+Task          AdaptiveDecoding
+Trial_id          297
+Target_num        1
+Movement_time		1431.811401
+
+
+Task          AdaptiveDecoding
+Trial_id          298
+Target_num        1
+Movement_time		2122.150391
+
+
+Task          AdaptiveDecoding
+Trial_id          299
+Target_num        0
+Movement_time		2682.072510
+
+
+Task          AdaptiveDecoding
+Trial_id          300
+Target_num        2
+Movement_time		1069.642700
+
+
+Task          AdaptiveDecoding
+Trial_id          301
+Target_num        1
+Movement_time		2029.325806
+
+
+Task          AdaptiveDecoding
+Trial_id          302
+Target_num        0
+Movement_time		1736.791138
+
+
+Task          AdaptiveDecoding
+Trial_id          303
+Target_num        2
+Movement_time		1273.113525
+
+
+Task          AdaptiveDecoding
+Trial_id          304
+Target_num        0
+Movement_time		1694.625977
+
+
+Task          AdaptiveDecoding
+Trial_id          305
+Target_num        3
+Movement_time		2652.243652
+
+
+Task          AdaptiveDecoding
+Trial_id          306
+Target_num        2
+Movement_time		1439.765869
+
+
+Task          AdaptiveDecoding
+Trial_id          307
+Target_num        1
+Movement_time		1463.241943
+
+
+Task          AdaptiveDecoding
+Trial_id          308
+Target_num        0
+Movement_time		3658.611328
+
+
+Task          AdaptiveDecoding
+Trial_id          309
+Target_num        1
+Movement_time		1158.379272
+
+
+Task          AdaptiveDecoding
+Trial_id          310
+Target_num        3
+Movement_time		1937.251709
+
+
+Task          AdaptiveDecoding
+Trial_id          311
+Target_num        3
+Movement_time		3211.129639
+
+
+Task          AdaptiveDecoding
+Trial_id          312
+Target_num        1
+Movement_time		2622.070313
+
+
+Task          AdaptiveDecoding
+Trial_id          313
+Target_num        1
+Movement_time		2464.219971
+
+
+Task          AdaptiveDecoding
+Trial_id          314
+Target_num        1
+Movement_time		2353.226563
+
+
+Task          AdaptiveDecoding
+Trial_id          315
+Target_num        3
+Movement_time		3567.226074
+
+
+Task          AdaptiveDecoding
+Trial_id          316
+Target_num        3
+Movement_time		1939.495361
+
+
+Task          AdaptiveDecoding
+Trial_id          317
+Target_num        3
+Movement_time		1636.833496
+
+
+Task          AdaptiveDecoding
+Trial_id          318
+Target_num        0
+Movement_time		1904.905396
+
+
+Task          AdaptiveDecoding
+Trial_id          319
+Target_num        2
+Movement_time		1515.689819
+
+
+Task          AdaptiveDecoding
+Trial_id          320
+Target_num        2
+Movement_time		1728.490356
+
+
+Task          AdaptiveDecoding
+Trial_id          321
+Target_num        0
+Movement_time		2576.031494
+
+
+Task          AdaptiveDecoding
+Trial_id          322
+Target_num        0
+Movement_time		1574.414551
+
+
+Task          AdaptiveDecoding
+Trial_id          323
+Target_num        2
+Movement_time		1610.871948
+
+
+Task          AdaptiveDecoding
+Trial_id          324
+Target_num        2
+Movement_time		1803.430908
+
+
+Task          AdaptiveDecoding
+Trial_id          325
+Target_num        0
+Movement_time		2470.714111
+
+
+Task          AdaptiveDecoding
+Trial_id          326
+Target_num        1
+Movement_time		2460.846436
+
+
+Task          AdaptiveDecoding
+Trial_id          327
+Target_num        1
+Movement_time		1289.609009
+
+
+Task          AdaptiveDecoding
+Trial_id          328
+Target_num        3
+Movement_time		2680.556152
+
+
+Task          AdaptiveDecoding
+Trial_id          329
+Target_num        1
+Movement_time		4509.410645
+
+
+Task          AdaptiveDecoding
+Trial_id          330
+Target_num        2
+Movement_time		1850.631836
+
+
+Task          AdaptiveDecoding
+Trial_id          331
+Target_num        2
+Movement_time		2634.185303
+
+
+Task          AdaptiveDecoding
+Trial_id          332
+Target_num        0
+Movement_time		1729.181885
+
+
+Task          AdaptiveDecoding
+Trial_id          333
+Target_num        0
+Movement_time		1680.602539
+
+
+Task          AdaptiveDecoding
+Trial_id          334
+Target_num        3
+Movement_time		1774.262451
+
+
+Task          AdaptiveDecoding
+Trial_id          335
+Target_num        3
+Movement_time		3185.414551
+
+
+Task          AdaptiveDecoding
+Trial_id          336
+Target_num        2
+Movement_time		1818.130737
+
+
+Task          AdaptiveDecoding
+Trial_id          337
+Target_num        3
+Movement_time		2161.718750
+
+
+Task          AdaptiveDecoding
+Trial_id          338
+Target_num        0
+Movement_time		1804.372070
+
+
+Task          AdaptiveDecoding
+Trial_id          339
+Target_num        3
+Movement_time		1551.778564
+
+
+Task          AdaptiveDecoding
+Trial_id          340
+Target_num        1
+Movement_time		1712.942993
+
+
+Task          AdaptiveDecoding
+Trial_id          341
+Target_num        0
+Movement_time		2975.278076
+
+
+Task          AdaptiveDecoding
+Trial_id          342
+Target_num        2
+Movement_time		2222.968018
+
+
+Task          AdaptiveDecoding
+Trial_id          343
+Target_num        0
+Movement_time		2233.390381
+
+
+Task          AdaptiveDecoding
+Trial_id          344
+Target_num        2
+Movement_time		1611.910034
+
+
+Task          AdaptiveDecoding
+Trial_id          345
+Target_num        1
+Movement_time		2419.259033
+
+
+Task          AdaptiveDecoding
+Trial_id          346
+Target_num        1
+Movement_time		1760.579712
+
+
+Task          AdaptiveDecoding
+Trial_id          347
+Target_num        3
+Movement_time		1285.581177
+
+
+Task          AdaptiveDecoding
+Trial_id          348
+Target_num        2
+Movement_time		2617.936768
+
+
+Task          AdaptiveDecoding
+Trial_id          349
+Target_num        1
+Movement_time		1196.146606
+
+
+Task          AdaptiveDecoding
+Trial_id          350
+Target_num        3
+Movement_time		2604.711426
+
+
+Task          AdaptiveDecoding
+Trial_id          351
+Target_num        2
+Movement_time		2842.434570
+
+
+Task          AdaptiveDecoding
+Trial_id          352
+Target_num        1
+Movement_time		1684.590454
+
+
+Task          AdaptiveDecoding
+Trial_id          353
+Target_num        2
+Movement_time		2105.619385
+
+
+Task          AdaptiveDecoding
+Trial_id          354
+Target_num        3
+Movement_time		1564.267212
+
+
+Task          AdaptiveDecoding
+Trial_id          355
+Target_num        1
+Movement_time		2978.128662
+
+
+Task          AdaptiveDecoding
+Trial_id          356
+Target_num        0
+Movement_time		1708.122314
+
+
+Task          AdaptiveDecoding
+Trial_id          357
+Target_num        0
+Movement_time		2273.387451
+
+
+Task          AdaptiveDecoding
+Trial_id          358
+Target_num        3
+Movement_time		1730.545166
+
+
+Task          AdaptiveDecoding
+Trial_id          359
+Target_num        0
+Movement_time		1363.034668
+
+
+Task          AdaptiveDecoding
+Trial_id          360
+Target_num        0
+Movement_time		1779.852173
+
+
+Task          AdaptiveDecoding
+Trial_id          361
+Target_num        0
+Movement_time		2621.756348
+
+
+Task          AdaptiveDecoding
+Trial_id          362
+Target_num        3
+Movement_time		2848.215820
+
+
+Task          AdaptiveDecoding
+Trial_id          363
+Target_num        2
+Movement_time		1659.291626
+
+
+Task          AdaptiveDecoding
+Trial_id          364
+Target_num        0
+Movement_time		2277.411377
+
+
+Task          AdaptiveDecoding
+Trial_id          365
+Target_num        2
+Movement_time		1813.161011
+
+
+Task          AdaptiveDecoding
+Trial_id          366
+Target_num        2
+Movement_time		1902.118042
+
+
+Task          AdaptiveDecoding
+Trial_id          367
+Target_num        3
+Movement_time		1720.816650
+
+
+Task          AdaptiveDecoding
+Trial_id          368
+Target_num        3
+Movement_time		1883.509521
+
+
+Task          AdaptiveDecoding
+Trial_id          369
+Target_num        1
+Movement_time		3019.610840
+
+
+Task          AdaptiveDecoding
+Trial_id          370
+Target_num        1
+Movement_time		2030.806030
+
+
+Task          AdaptiveDecoding
+Trial_id          371
+Target_num        1
+Movement_time		1634.278198
+
+
+Task          AdaptiveDecoding
+Trial_id          372
+Target_num        2
+Movement_time		1385.338867
+
+
+Task          AdaptiveDecoding
+Trial_id          373
+Target_num        0
+Movement_time		1708.066528
+
+
+Task          AdaptiveDecoding
+Trial_id          374
+Target_num        1
+Movement_time		2600.756592
+
+
+Task          AdaptiveDecoding
+Trial_id          375
+Target_num        0
+Movement_time		1625.678589
+
+
+Task          AdaptiveDecoding
+Trial_id          376
+Target_num        2
+Movement_time		4203.034180
+
+
+Task          AdaptiveDecoding
+Trial_id          377
+Target_num        1
+Movement_time		1873.425415
+
+
+Task          AdaptiveDecoding
+Trial_id          378
+Target_num        3
+Movement_time		4840.885742
+
+
+Task          AdaptiveDecoding
+Trial_id          379
+Target_num        1
+Movement_time		1800.719604
+
+
+Task          AdaptiveDecoding
+Trial_id          380
+Target_num        3
+Movement_time		1303.354492
+
+
+Task          AdaptiveDecoding
+Trial_id          381
+Target_num        3
+Movement_time		2195.836914
+
+
+Task          AdaptiveDecoding
+Trial_id          382
+Target_num        0
+Movement_time		1935.910156
+
+
+Task          AdaptiveDecoding
+Trial_id          383
+Target_num        2
+Movement_time		2280.861816
+
+
+Task          AdaptiveDecoding
+Trial_id          384
+Target_num        3
+Movement_time		3672.120605
+
+
+Task          AdaptiveDecoding
+Trial_id          385
+Target_num        2
+Movement_time		3306.630859
+
+
+Task          AdaptiveDecoding
+Trial_id          386
+Target_num        2
+Movement_time		2010.911011
+
+
+Task          AdaptiveDecoding
+Trial_id          387
+Target_num        2
+Movement_time		2881.608398
+
+
+Task          AdaptiveDecoding
+Trial_id          388
+Target_num        0
+Movement_time		1979.384766
+
+
+Task          AdaptiveDecoding
+Trial_id          389
+Target_num        1
+Movement_time		1295.370850
+
+
+Task          AdaptiveDecoding
+Trial_id          390
+Target_num        1
+Movement_time		1499.671875
+
+
+Task          AdaptiveDecoding
+Trial_id          391
+Target_num        0
+Movement_time		1880.740723
+
+
+Task          AdaptiveDecoding
+Trial_id          392
+Target_num        3
+Movement_time		1570.969360
+
+
+Task          AdaptiveDecoding
+Trial_id          393
+Target_num        3
+Movement_time		2340.386475
+
+
+Task          AdaptiveDecoding
+Trial_id          394
+Target_num        0
+Movement_time		1815.780762
+
+
+Task          AdaptiveDecoding
+Trial_id          395
+Target_num        1
+Movement_time		1655.386597
+
+
+Task          AdaptiveDecoding
+Trial_id          396
+Target_num        3
+Movement_time		6282.027344
+
+
+Task          AdaptiveDecoding
+Trial_id          397
+Target_num        2
+Movement_time		1422.406006
+
+
+Task          AdaptiveDecoding
+Trial_id          398
+Target_num        2
+Movement_time		2144.629150
+
+
+Task          AdaptiveDecoding
+Trial_id          399
+Target_num        2
+Movement_time		1576.656860
+
+
+Task          AdaptiveDecoding
+Trial_id          400
+Target_num        0
+Movement_time		2203.024902
+
+
+Task          AdaptiveDecoding
+Trial_id          401
+Target_num        0
+Movement_time		2213.382324
+
+
+Task          AdaptiveDecoding
+Trial_id          402
+Target_num        1
+Movement_time		2042.068970
+
+
+Task          AdaptiveDecoding
+Trial_id          403
+Target_num        1
+Movement_time		1457.923218
+
+
+Task          AdaptiveDecoding
+Trial_id          404
+Target_num        3
+Movement_time		1209.393188
+
+
+Task          AdaptiveDecoding
+Trial_id          405
+Target_num        0
+Movement_time		2780.843506
+
+
+Task          AdaptiveDecoding
+Trial_id          406
+Target_num        1
+Movement_time		3257.121094
+
+
+Task          AdaptiveDecoding
+Trial_id          407
+Target_num        3
+Movement_time		1798.109619
+
+
+Task          AdaptiveDecoding
+Trial_id          408
+Target_num        2
+Movement_time		1776.673950
+
+
+Task          AdaptiveDecoding
+Trial_id          409
+Target_num        2
+Movement_time		1640.534058
+
+
+Task          AdaptiveDecoding
+Trial_id          410
+Target_num        2
+Movement_time		2346.939453
+
+
+Task          AdaptiveDecoding
+Trial_id          411
+Target_num        3
+Movement_time		1717.381470
+
+
+Task          AdaptiveDecoding
+Trial_id          412
+Target_num        3
+Movement_time		2152.110352
+
+
+Task          AdaptiveDecoding
+Trial_id          413
+Target_num        1
+Movement_time		1293.350586
+
+
+Task          AdaptiveDecoding
+Trial_id          414
+Target_num        3
+Movement_time		2274.364746
+
+
+Task          AdaptiveDecoding
+Trial_id          415
+Target_num        0
+Movement_time		2064.506592
+
+
+Task          AdaptiveDecoding
+Trial_id          416
+Target_num        0
+Movement_time		2138.223145
+
+
+Task          AdaptiveDecoding
+Trial_id          417
+Target_num        1
+Movement_time		1700.950073
+
+
+Task          AdaptiveDecoding
+Trial_id          418
+Target_num        1
+Movement_time		2075.583008
+
+
+Task          AdaptiveDecoding
+Trial_id          419
+Target_num        0
+Movement_time		1561.739868
+
+
+Task          AdaptiveDecoding
+Trial_id          420
+Target_num        1
+Movement_time		1581.635742
+
+
+Task          AdaptiveDecoding
+Trial_id          421
+Target_num        2
+Movement_time		2302.825195
+
+
+Task          AdaptiveDecoding
+Trial_id          422
+Target_num        0
+Movement_time		3157.190918
+
+
+Task          AdaptiveDecoding
+Trial_id          423
+Target_num        3
+Movement_time		2038.135254
+
+
+Task          AdaptiveDecoding
+Trial_id          424
+Target_num        2
+Movement_time		1646.704468
+
+
+Task          AdaptiveDecoding
+Trial_id          425
+Target_num        0
+Movement_time		1668.265747
+
+
+Task          AdaptiveDecoding
+Trial_id          426
+Target_num        3
+Movement_time		5236.080078
+
+
+Task          AdaptiveDecoding
+Trial_id          427
+Target_num        1
+Movement_time		2565.650635
+
+
+Task          AdaptiveDecoding
+Trial_id          428
+Target_num        2
+Movement_time		1643.252319
+
+
+Task          AdaptiveDecoding
+Trial_id          429
+Target_num        3
+Movement_time		2066.867676
+
+
+Task          AdaptiveDecoding
+Trial_id          430
+Target_num        0
+Movement_time		1495.693848
+
+
+Task          AdaptiveDecoding
+Trial_id          431
+Target_num        1
+Movement_time		2519.136230
+
+
+Task          AdaptiveDecoding
+Trial_id          433
+Target_num        3
+Movement_time		2049.411865
+
+
+Task          AdaptiveDecoding
+Trial_id          434
+Target_num        2
+Movement_time		2639.477783
+
+
+Task          AdaptiveDecoding
+Trial_id          435
+Target_num        0
+Movement_time		2824.577881
+
+
+Task          AdaptiveDecoding
+Trial_id          436
+Target_num        1
+Movement_time		1513.274170
+
+
+Task          AdaptiveDecoding
+Trial_id          437
+Target_num        2
+Movement_time		1414.285156
+
+
+Task          AdaptiveDecoding
+Trial_id          438
+Target_num        1
+Movement_time		3112.686523
+
+
+Task          AdaptiveDecoding
+Trial_id          439
+Target_num        2
+Movement_time		2600.812988
+
+
+Task          AdaptiveDecoding
+Trial_id          440
+Target_num        1
+Movement_time		6005.457520
+
+
+Task          AdaptiveDecoding
+Trial_id          441
+Target_num        0
+Movement_time		2494.108887
+
+
+Task          AdaptiveDecoding
+Trial_id          442
+Target_num        3
+Movement_time		2373.425781
+
+
+Task          AdaptiveDecoding
+Trial_id          443
+Target_num        0
+Movement_time		2401.156006
+
+
+Task          AdaptiveDecoding
+Trial_id          444
+Target_num        3
+Movement_time		2950.571777
+
+
+Task          AdaptiveDecoding
+Trial_id          445
+Target_num        2
+Movement_time		1316.068237
+
+
+Task          AdaptiveDecoding
+Trial_id          446
+Target_num        3
+Movement_time		1790.936890
+
+
+Task          AdaptiveDecoding
+Trial_id          447
+Target_num        3
+Movement_time		1614.912476
+
+
+Task          AdaptiveDecoding
+Trial_id          448
+Target_num        0
+Movement_time		1362.433960
+
+
+Task          AdaptiveDecoding
+Trial_id          449
+Target_num        2
+Movement_time		3264.851074
+
+
+Task          AdaptiveDecoding
+Trial_id          450
+Target_num        0
+Movement_time		1749.806152
+
+
+Task          AdaptiveDecoding
+Trial_id          451
+Target_num        1
+Movement_time		3240.868652
+
+
+Task          AdaptiveDecoding
+Trial_id          452
+Target_num        1
+Movement_time		2750.042236
+
+
+Task          AdaptiveDecoding
+Trial_id          453
+Target_num        3
+Movement_time		3435.945068
+
+
+Task          AdaptiveDecoding
+Trial_id          454
+Target_num        1
+Movement_time		1646.064331
+
+
+Task          AdaptiveDecoding
+Trial_id          455
+Target_num        2
+Movement_time		1949.851563
+
+
+Task          AdaptiveDecoding
+Trial_id          456
+Target_num        0
+Movement_time		1856.148560
+
+
+Task          AdaptiveDecoding
+Trial_id          457
+Target_num        2
+Movement_time		6725.404297
+
+
+Task          AdaptiveDecoding
+Trial_id          458
+Target_num        3
+Movement_time		1760.915161
+
+
+Task          AdaptiveDecoding
+Trial_id          459
+Target_num        0
+Movement_time		1587.448486
+
+
+Task          AdaptiveDecoding
+Trial_id          460
+Target_num        3
+Movement_time		1774.953491
+
+
+Task          AdaptiveDecoding
+Trial_id          461
+Target_num        0
+Movement_time		1772.086060
+
+
+Task          AdaptiveDecoding
+Trial_id          462
+Target_num        0
+Movement_time		3573.591553
+
+
+Task          AdaptiveDecoding
+Trial_id          463
+Target_num        1
+Movement_time		1581.084229
+
+
+Task          AdaptiveDecoding
+Trial_id          464
+Target_num        2
+Movement_time		1577.155029
+
+
+Task          AdaptiveDecoding
+Trial_id          465
+Target_num        1
+Movement_time		1847.159668
+
+
+Task          AdaptiveDecoding
+Trial_id          466
+Target_num        2
+Movement_time		1524.443481
+
+
+Task          AdaptiveDecoding
+Trial_id          467
+Target_num        1
+Movement_time		1666.071777
+
+
+Task          AdaptiveDecoding
+Trial_id          468
+Target_num        3
+Movement_time		1612.007690
+
+
+Task          AdaptiveDecoding
+Trial_id          469
+Target_num        1
+Movement_time		1762.950195
+
+
+AdaptiveDecode			2.000000
+Alpha			0.100000
+AudioAmp			0.000000
+AudioAmp_2			0.000000
+AudioDeviceName			0.000000
+AudioDur			0.000000
+AudioDur_2			0.000000
+AudioFreq			0.000000
+AudioFreq_2			0.000000
+AudioStim			0.000000
+AudioSweep			0.000000
+AudioWidth			0.000000
+AudioWidth_2			0.000000
+BCIForceRotationDamp			0.000000
+BCIForceRotationInertia			0.000000
+BCIForceRotationXGain			0.000000
+BCIForceRotationYGain			0.000000
+BCIForceRotationZGain			0.000000
+BCIForceTranslationDamp			0.000000
+BCIForceTranslationInertia			0.000000
+BCIForceTranslationXGain			0.000000
+BCIForceTranslationYGain			0.000000
+BCIForceTranslationZGain			0.000000
+BCIPositionRotationXGain			0.000000
+BCIPositionRotationYGain			0.000000
+BCIPositionRotationZGain			0.000000
+BCIPositionTranslationXGain			0.000000
+BCIPositionTranslationYGain			0.000000
+BCIPositionTranslationZGain			0.000000
+BCIVelocityRotationXGain			0.000000
+BCIVelocityRotationYGain			0.000000
+BCIVelocityRotationZGain			0.000000
+BCIVelocityTranslationXGain			1.000000
+BCIVelocityTranslationYGain			0.000000
+BCIVelocityTranslationZGain			1.000000
+Bias			2.000000
+BiasGain			20.000000
+BlackOut			0.000000
+CenterHoldTime			500.000000
+ControlDevice			2.000000
+ControlLoopRate			0.000000
+ControlMode			1.000000
+CurrentBlock			1.000000
+CurrentRewardTier			0.000000
+CurrentSet			1.000000
+CurrentTrial			1.000000
+CursorSize			1.500000
+ElectroActiveChan			0.000000
+ElectroActiveChan_2			0.000000
+ElectroAmp			5000.000000
+ElectroAmp_2			0.000000
+ElectroDeviceName			1.000000
+ElectroDur			10.000000
+ElectroDur_2			0.000000
+ElectroFreq			60.000000
+ElectroFreq_2			0.000000
+ElectroReturnChan			0.000000
+ElectroReturnChan_2			0.000000
+ElectroStim			0.000000
+ElectroSweep			0.000000
+ElectroWidth			50.000000
+ElectroWidth_2			0.000000
+JoystickConnectedLight			0.000000
+JoystickForceRotationDamp			0.000000
+JoystickForceRotationInertia			0.000000
+JoystickForceRotationXGain			0.000000
+JoystickForceRotationYGain			0.000000
+JoystickForceRotationZGain			0.000000
+JoystickForceTranslationDamp			0.000000
+JoystickForceTranslationInertia			0.000000
+JoystickForceTranslationXGain			0.000000
+JoystickForceTranslationYGain			0.000000
+JoystickForceTranslationZGain			0.000000
+JoystickLoopRate			0.000000
+JoystickPositionRotationXGain			0.000000
+JoystickPositionRotationYGain			0.000000
+JoystickPositionRotationZGain			0.000000
+JoystickPositionTranslationXGain			80.000000
+JoystickPositionTranslationYGain			0.000000
+JoystickPositionTranslationZGain			65.000000
+JoystickVelocityRotationXGain			0.000000
+JoystickVelocityRotationYGain			0.000000
+JoystickVelocityRotationZGain			0.000000
+JoystickVelocityTranslationXGain			0.800000
+JoystickVelocityTranslationYGain			1.000000
+JoystickVelocityTranslationZGain			0.800000
+MaxMovementTime			7000.000000
+MedtronicDur			500.000000
+MedtronicStimONOFF			0.000000
+MouseForceRotationDamp			0.000000
+MouseForceRotationInertia			0.000000
+MouseForceRotationXGain			0.000000
+MouseForceRotationYGain			0.000000
+MouseForceRotationZGain			0.000000
+MouseForceTranslationDamp			0.000000
+MouseForceTranslationInertia			0.000000
+MouseForceTranslationXGain			0.000000
+MouseForceTranslationYGain			0.000000
+MouseForceTranslationZGain			0.000000
+MousePositionRotationXGain			0.000000
+MousePositionRotationYGain			0.000000
+MousePositionRotationZGain			0.000000
+MousePositionTranslationXGain			39.000000
+MousePositionTranslationYGain			0.000000
+MousePositionTranslationZGain			26.000000
+MouseVelocityRotationXGain			0.000000
+MouseVelocityRotationYGain			0.000000
+MouseVelocityRotationZGain			0.000000
+MouseVelocityTranslationXGain			10.000000
+MouseVelocityTranslationYGain			0.100000
+MouseVelocityTranslationZGain			10.000000
+NumBlocks			1.000000
+NumRewardTiers			0.000000
+NumSets			1.000000
+NumTargets			4.000000
+NumTrials			3.000000
+PlaybackMode			0.000000
+RestPeriod			0.000000
+RewardDecrement			0.000000
+RewardDeviceName			0.000000
+RewardIncrement			0.000000
+RewardMax			300.000000
+RewardMin			100.000000
+RotationXMax			0.000000
+RotationXMin			0.000000
+RotationYMax			0.000000
+RotationYMin			0.000000
+RotationZMax			0.000000
+RotationZMin			0.000000
+SerialPortBaud			0.000000
+SerialPortLoopRate			0.000000
+SerialPortNum			0.000000
+SweepAmp			0.000000
+SweepAmpMax			0.000000
+SweepAmpMin			0.000000
+SweepAmpValue			0.000000
+SweepDur			0.000000
+SweepDurMax			0.000000
+SweepDurMin			0.000000
+SweepDurValue			0.000000
+SweepFreq			0.000000
+SweepFreqMax			0.000000
+SweepFreqMin			0.000000
+SweepFreqValue			0.000000
+SweepNumAmps			0.000000
+SweepNumDurs			0.000000
+SweepNumFreqs			0.000000
+SweepNumWidths			0.000000
+SweepWidth			0.000000
+SweepWidthMax			0.000000
+SweepWidthMin			0.000000
+SweepWidthValue			0.000000
+TDTConnectedLight			1.000000
+TDTLoopRate			0.000000
+TargetDistance			16.000000
+TargetSize			1.500000
+TimeoutTime			3000.000000
+TranslationXMax			32.000000
+TranslationXMin			-32.000000
+TranslationYMax			0.000000
+TranslationYMin			0.000000
+TranslationZMax			26.000000
+TranslationZMin			-26.000000
+TrialID			0.000000
+UseAuxiliaryRewards			0.000000
+UseRewardTiers			0.000000
+VibroAmp			3.000000
+VibroAmp_2			3.000000
+VibroAmp_3			0.000000
+VibroDeviceName			0.000000
+VibroDur			750.000000
+VibroDur_2			5000.000000
+VibroDur_3			0.000000
+VibroFreq			100.000000
+VibroFreq_2			100.000000
+VibroFreq_3			0.000000
+VibroStim			2.000000
+VibroSweep			0.000000
+WorkAround			0.000000
+
+
+
+
+Task          AdaptiveDecoding
+Trial_id          470
+Target_num        2
+Movement_time		1398.342041
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          471
+Target_num        3
+Movement_time		3535.947510
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          473
+Target_num        2
+Movement_time		2539.201172
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          474
+Target_num        1
+Movement_time		3503.946777
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          475
+Target_num        0
+Movement_time		6781.829102
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          476
+Target_num        0
+Movement_time		6996.355957
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          477
+Target_num        2
+Movement_time		2173.087646
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          478
+Target_num        0
+Movement_time		5578.192871
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          480
+Target_num        3
+Movement_time		6672.881836
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          481
+Target_num        1
+Movement_time		2554.602051
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          482
+Target_num        1
+Movement_time		3100.675049
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          483
+Target_num        3
+Movement_time		5164.955566
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          484
+Target_num        2
+Movement_time		1998.130005
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          485
+Target_num        3
+Movement_time		4487.045898
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          486
+Target_num        2
+Movement_time		1919.794922
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          487
+Target_num        2
+Movement_time		2337.386963
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          488
+Target_num        1
+Movement_time		1745.888428
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          489
+Target_num        3
+Movement_time		2383.302979
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          490
+Target_num        0
+Movement_time		2177.167969
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          491
+Target_num        3
+Movement_time		6380.861328
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          492
+Target_num        1
+Movement_time		2751.026123
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          493
+Target_num        0
+Movement_time		4003.436523
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          494
+Target_num        0
+Movement_time		2169.741455
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          495
+Target_num        1
+Movement_time		2539.667725
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          496
+Target_num        2
+Movement_time		1284.569458
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          497
+Target_num        1
+Movement_time		1822.150269
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          498
+Target_num        2
+Movement_time		2062.283447
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          499
+Target_num        1
+Movement_time		1629.996216
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          500
+Target_num        0
+Movement_time		2888.156494
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          501
+Target_num        2
+Movement_time		1263.143188
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          502
+Target_num        0
+Movement_time		1410.952637
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          503
+Target_num        1
+Movement_time		2460.770752
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          504
+Target_num        0
+Movement_time		2849.483887
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          505
+Target_num        3
+Movement_time		2952.153564
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          506
+Target_num        3
+Movement_time		1750.848755
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          507
+Target_num        3
+Movement_time		3438.253906
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          508
+Target_num        1
+Movement_time		4293.319336
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          509
+Target_num        1
+Movement_time		2359.558838
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          510
+Target_num        0
+Movement_time		2710.787598
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          511
+Target_num        1
+Movement_time		1638.230835
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          512
+Target_num        0
+Movement_time		2433.459229
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          513
+Target_num        2
+Movement_time		1273.682617
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          514
+Target_num        2
+Movement_time		1918.343018
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          515
+Target_num        2
+Movement_time		1695.479736
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          516
+Target_num        0
+Movement_time		3162.244873
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          517
+Target_num        3
+Movement_time		3527.419189
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          518
+Target_num        3
+Movement_time		1805.929077
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          519
+Target_num        3
+Movement_time		3819.651611
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          520
+Target_num        2
+Movement_time		1244.506714
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          521
+Target_num        2
+Movement_time		1364.688232
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          522
+Target_num        3
+Movement_time		1825.386841
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          523
+Target_num        1
+Movement_time		1939.464966
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          524
+Target_num        2
+Movement_time		1639.368652
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          525
+Target_num        1
+Movement_time		1948.352051
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          526
+Target_num        3
+Movement_time		2864.873535
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          527
+Target_num        3
+Movement_time		1580.915405
+Movement_time		20.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          528
+Target_num        0
+Movement_time		2965.653076
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          529
+Target_num        0
+Movement_time		1887.303711
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          530
+Target_num        1
+Movement_time		1914.387817
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          531
+Target_num        0
+Movement_time		2967.194580
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          532
+Target_num        1
+Movement_time		2140.474121
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          533
+Target_num        3
+Movement_time		5922.029297
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          534
+Target_num        2
+Movement_time		4418.286133
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          535
+Target_num        0
+Movement_time		2833.357910
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          536
+Target_num        1
+Movement_time		4032.450684
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          537
+Target_num        0
+Movement_time		2403.674316
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          538
+Target_num        0
+Movement_time		4332.213379
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          539
+Target_num        1
+Movement_time		4889.440430
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          541
+Target_num        2
+Movement_time		1904.654907
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          542
+Target_num        2
+Movement_time		3779.817383
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          543
+Target_num        3
+Movement_time		2294.762695
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          544
+Target_num        3
+Movement_time		2974.786621
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          547
+Target_num        2
+Movement_time		1353.534546
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          548
+Target_num        1
+Movement_time		1843.322388
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          549
+Target_num        1
+Movement_time		3986.873779
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          550
+Target_num        3
+Movement_time		3335.956543
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          551
+Target_num        1
+Movement_time		1472.460449
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          552
+Target_num        3
+Movement_time		2758.678467
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          553
+Target_num        2
+Movement_time		1629.891968
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          554
+Target_num        0
+Movement_time		2789.771484
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          555
+Target_num        2
+Movement_time		1379.974487
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          556
+Target_num        0
+Movement_time		5800.952637
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          557
+Target_num        0
+Movement_time		2593.467041
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          558
+Target_num        3
+Movement_time		4148.644043
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          559
+Target_num        1
+Movement_time		3294.653809
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          563
+Target_num        2
+Movement_time		1858.250977
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          565
+Target_num        0
+Movement_time		4283.266602
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          566
+Target_num        0
+Movement_time		6457.116699
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          567
+Target_num        2
+Movement_time		2374.708740
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          568
+Target_num        2
+Movement_time		5004.976563
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          571
+Target_num        3
+Movement_time		5798.225586
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          572
+Target_num        1
+Movement_time		1607.333618
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          573
+Target_num        3
+Movement_time		3865.517334
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          574
+Target_num        1
+Movement_time		2351.904297
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          575
+Target_num        3
+Movement_time		2810.648926
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          576
+Target_num        0
+Movement_time		5045.809570
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          577
+Target_num        2
+Movement_time		1443.107544
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          578
+Target_num        2
+Movement_time		2019.880249
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          579
+Target_num        1
+Movement_time		1738.617920
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          580
+Target_num        1
+Movement_time		3118.345703
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          581
+Target_num        0
+Movement_time		2669.186768
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          582
+Target_num        1
+Movement_time		2317.119385
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          583
+Target_num        2
+Movement_time		1433.124512
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          584
+Target_num        3
+Movement_time		5843.634766
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          585
+Target_num        0
+Movement_time		2170.906006
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          586
+Target_num        3
+Movement_time		4749.812988
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          587
+Target_num        3
+Movement_time		2957.120850
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          588
+Target_num        0
+Movement_time		4478.512695
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          590
+Target_num        0
+Movement_time		2391.833984
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          591
+Target_num        0
+Movement_time		2389.422119
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          592
+Target_num        3
+Movement_time		2371.970947
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          593
+Target_num        1
+Movement_time		3425.932861
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          594
+Target_num        2
+Movement_time		3209.577148
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          595
+Target_num        0
+Movement_time		2510.840088
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          596
+Target_num        2
+Movement_time		3409.709717
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          598
+Target_num        1
+Movement_time		2222.408691
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          599
+Target_num        3
+Movement_time		3315.679688
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          600
+Target_num        1
+Movement_time		2591.943115
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          601
+Target_num        2
+Movement_time		1650.886597
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          602
+Target_num        3
+Movement_time		2245.577637
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          603
+Target_num        2
+Movement_time		1760.846924
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          604
+Target_num        0
+Movement_time		3202.332520
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          605
+Target_num        2
+Movement_time		1580.901123
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          606
+Target_num        1
+Movement_time		3188.231934
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          607
+Target_num        3
+Movement_time		3688.182861
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          608
+Target_num        0
+Movement_time		2193.250977
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          609
+Target_num        2
+Movement_time		1493.698975
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          610
+Target_num        0
+Movement_time		3885.542480
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          611
+Target_num        3
+Movement_time		3214.949707
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          612
+Target_num        3
+Movement_time		2200.657715
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          613
+Target_num        1
+Movement_time		2792.065430
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          614
+Target_num        1
+Movement_time		2579.543213
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          615
+Target_num        3
+Movement_time		4591.937988
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          616
+Target_num        2
+Movement_time		4625.665039
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          617
+Target_num        2
+Movement_time		1684.895142
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          618
+Target_num        1
+Movement_time		1812.980713
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          619
+Target_num        1
+Movement_time		3452.142822
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          620
+Target_num        0
+Movement_time		2147.122070
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          621
+Target_num        2
+Movement_time		2080.740479
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          622
+Target_num        3
+Movement_time		3088.281250
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          623
+Target_num        3
+Movement_time		3330.849854
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          624
+Target_num        0
+Movement_time		2298.590088
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          625
+Target_num        1
+Movement_time		1578.304321
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          626
+Target_num        0
+Movement_time		1683.206665
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          627
+Target_num        3
+Movement_time		1587.039917
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          628
+Target_num        1
+Movement_time		1708.296021
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          629
+Target_num        2
+Movement_time		2212.343994
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          630
+Target_num        2
+Movement_time		3308.198975
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          631
+Target_num        2
+Movement_time		1749.622681
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          632
+Target_num        3
+Movement_time		2320.966797
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          633
+Target_num        3
+Movement_time		3268.539063
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          634
+Target_num        0
+Movement_time		2386.916748
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          635
+Target_num        1
+Movement_time		2911.883545
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          636
+Target_num        1
+Movement_time		2713.357666
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          637
+Target_num        0
+Movement_time		6935.685547
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          638
+Target_num        0
+Movement_time		3881.188721
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          639
+Target_num        2
+Movement_time		1450.823975
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          640
+Target_num        2
+Movement_time		1648.142822
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          641
+Target_num        0
+Movement_time		2637.081543
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          642
+Target_num        0
+Movement_time		2416.182617
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          643
+Target_num        1
+Movement_time		2225.927002
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          644
+Target_num        3
+Movement_time		4160.839355
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          645
+Target_num        2
+Movement_time		2158.138184
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          646
+Target_num        3
+Movement_time		5609.656738
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          647
+Target_num        0
+Movement_time		2157.206055
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          648
+Target_num        3
+Movement_time		4343.446289
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          649
+Target_num        1
+Movement_time		2280.907959
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          650
+Target_num        1
+Movement_time		3248.448242
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          651
+Target_num        1
+Movement_time		2086.092529
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          652
+Target_num        2
+Movement_time		2178.074219
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          653
+Target_num        2
+Movement_time		2926.977539
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          654
+Target_num        1
+Movement_time		1616.234619
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          655
+Target_num        1
+Movement_time		2778.262207
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          656
+Target_num        3
+Movement_time		2749.448242
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          657
+Target_num        2
+Movement_time		2582.198242
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          658
+Target_num        0
+Movement_time		3727.080811
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          660
+Target_num        0
+Movement_time		6123.449707
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          661
+Target_num        3
+Movement_time		2379.600098
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          662
+Target_num        3
+Movement_time		3035.893311
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          663
+Target_num        0
+Movement_time		2119.250732
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          664
+Target_num        3
+Movement_time		1730.733643
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          665
+Target_num        2
+Movement_time		5749.316895
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          666
+Target_num        0
+Movement_time		3586.055176
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          667
+Target_num        2
+Movement_time		1669.390015
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          668
+Target_num        3
+Movement_time		2318.129639
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          669
+Target_num        0
+Movement_time		1833.574585
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          670
+Target_num        2
+Movement_time		1467.330933
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          671
+Target_num        3
+Movement_time		3509.855713
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          672
+Target_num        1
+Movement_time		2681.021729
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          673
+Target_num        1
+Movement_time		1856.032715
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          674
+Target_num        1
+Movement_time		2139.615967
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          675
+Target_num        0
+Movement_time		2747.340820
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          676
+Target_num        1
+Movement_time		1554.608154
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          677
+Target_num        3
+Movement_time		2594.588379
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          678
+Target_num        3
+Movement_time		2792.004150
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          679
+Target_num        3
+Movement_time		1895.538208
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          680
+Target_num        2
+Movement_time		2489.711914
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          681
+Target_num        0
+Movement_time		6889.893555
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          682
+Target_num        0
+Movement_time		3342.390381
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          683
+Target_num        0
+Movement_time		3700.923828
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          684
+Target_num        1
+Movement_time		1404.645386
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          685
+Target_num        1
+Movement_time		2272.125977
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          686
+Target_num        2
+Movement_time		2098.457275
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          687
+Target_num        2
+Movement_time		1899.642822
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          688
+Target_num        1
+Movement_time		1635.721069
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          689
+Target_num        1
+Movement_time		1579.564941
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          690
+Target_num        2
+Movement_time		1874.679565
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          691
+Target_num        0
+Movement_time		2588.479004
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          692
+Target_num        3
+Movement_time		2376.121582
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          693
+Target_num        2
+Movement_time		1506.041870
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          694
+Target_num        2
+Movement_time		2434.687256
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          695
+Target_num        0
+Movement_time		2002.420166
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          696
+Target_num        1
+Movement_time		2909.621826
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          697
+Target_num        3
+Movement_time		2144.907227
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          698
+Target_num        3
+Movement_time		5805.937988
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          699
+Target_num        0
+Movement_time		4852.361328
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          700
+Target_num        1
+Movement_time		2483.706543
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          701
+Target_num        3
+Movement_time		2877.354248
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          702
+Target_num        1
+Movement_time		2548.345703
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          703
+Target_num        2
+Movement_time		1500.985107
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          704
+Target_num        2
+Movement_time		1515.849121
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          705
+Target_num        0
+Movement_time		2276.889893
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          706
+Target_num        1
+Movement_time		2306.060547
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          707
+Target_num        2
+Movement_time		1558.379272
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          708
+Target_num        3
+Movement_time		3335.920410
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          709
+Target_num        3
+Movement_time		3298.143799
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          710
+Target_num        0
+Movement_time		2418.417725
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          711
+Target_num        0
+Movement_time		2439.587402
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          712
+Target_num        3
+Movement_time		4298.394043
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          713
+Target_num        3
+Movement_time		3556.151611
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          714
+Target_num        2
+Movement_time		1904.597778
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          716
+Target_num        3
+Movement_time		2124.669678
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          717
+Target_num        1
+Movement_time		2511.491211
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          718
+Target_num        1
+Movement_time		2875.963623
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          719
+Target_num        2
+Movement_time		2517.439209
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          720
+Target_num        1
+Movement_time		1931.182251
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          721
+Target_num        2
+Movement_time		3099.838623
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          722
+Target_num        0
+Movement_time		3086.176025
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          723
+Target_num        0
+Movement_time		2104.947998
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          724
+Target_num        0
+Movement_time		2083.178467
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          731
+Target_num        2
+Movement_time		2165.826172
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          732
+Target_num        2
+Movement_time		2134.284424
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          733
+Target_num        1
+Movement_time		2252.217041
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          734
+Target_num        2
+Movement_time		1870.963013
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          735
+Target_num        1
+Movement_time		1793.157593
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          736
+Target_num        3
+Movement_time		2547.032715
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          737
+Target_num        3
+Movement_time		5598.384277
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          738
+Target_num        3
+Movement_time		3293.666748
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          739
+Target_num        0
+Movement_time		3716.959717
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          740
+Target_num        1
+Movement_time		1465.654785
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          741
+Target_num        0
+Movement_time		2445.728027
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          742
+Target_num        0
+Movement_time		1797.375854
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          743
+Target_num        3
+Movement_time		2295.814697
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          744
+Target_num        3
+Movement_time		1683.556519
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          745
+Target_num        0
+Movement_time		3783.375244
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          746
+Target_num        1
+Movement_time		2587.939941
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          747
+Target_num        1
+Movement_time		1938.437500
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          748
+Target_num        0
+Movement_time		1750.859863
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          749
+Target_num        3
+Movement_time		1943.541138
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          750
+Target_num        2
+Movement_time		1629.692017
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          751
+Target_num        0
+Movement_time		4466.935059
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          752
+Target_num        1
+Movement_time		2312.260986
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          753
+Target_num        2
+Movement_time		1795.806030
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          754
+Target_num        2
+Movement_time		1399.543823
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          755
+Target_num        3
+Movement_time		2107.031494
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          756
+Target_num        1
+Movement_time		1383.631104
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          757
+Target_num        3
+Movement_time		2139.273438
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          758
+Target_num        2
+Movement_time		4240.549316
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          759
+Target_num        3
+Movement_time		2255.001709
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          760
+Target_num        1
+Movement_time		2573.439209
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          761
+Target_num        1
+Movement_time		3190.940674
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          762
+Target_num        2
+Movement_time		2628.444092
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          763
+Target_num        2
+Movement_time		1491.957520
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          764
+Target_num        0
+Movement_time		3690.920654
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          765
+Target_num        0
+Movement_time		1638.425049
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          766
+Target_num        0
+Movement_time		3612.231934
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          768
+Target_num        2
+Movement_time		2711.963623
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          769
+Target_num        0
+Movement_time		3468.065430
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          770
+Target_num        2
+Movement_time		1819.452148
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          771
+Target_num        1
+Movement_time		1509.656616
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          772
+Target_num        2
+Movement_time		1645.977173
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          773
+Target_num        1
+Movement_time		1559.570068
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          774
+Target_num        0
+Movement_time		1973.085815
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          775
+Target_num        1
+Movement_time		1714.864746
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          776
+Target_num        3
+Movement_time		2555.700928
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          777
+Target_num        3
+Movement_time		2519.732422
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          778
+Target_num        3
+Movement_time		3053.364502
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          779
+Target_num        0
+Movement_time		1624.452393
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          780
+Target_num        0
+Movement_time		2110.931885
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          781
+Target_num        2
+Movement_time		1508.612793
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          782
+Target_num        3
+Movement_time		2294.646973
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          783
+Target_num        0
+Movement_time		1531.899536
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          784
+Target_num        2
+Movement_time		2203.314453
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          785
+Target_num        3
+Movement_time		2968.642090
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          786
+Target_num        3
+Movement_time		2273.362305
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          787
+Target_num        0
+Movement_time		2294.636719
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          788
+Target_num        1
+Movement_time		1414.848999
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          789
+Target_num        1
+Movement_time		2026.851807
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          790
+Target_num        1
+Movement_time		2470.823242
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          791
+Target_num        2
+Movement_time		2333.665771
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          792
+Target_num        1
+Movement_time		1669.634766
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          793
+Target_num        0
+Movement_time		1820.785034
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          794
+Target_num        2
+Movement_time		1848.577515
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          795
+Target_num        0
+Movement_time		2076.660645
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          796
+Target_num        2
+Movement_time		2906.988770
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          797
+Target_num        1
+Movement_time		2037.364502
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          798
+Target_num        1
+Movement_time		1970.843750
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          799
+Target_num        0
+Movement_time		3253.363037
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          800
+Target_num        2
+Movement_time		2349.638672
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          801
+Target_num        3
+Movement_time		3147.455811
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          802
+Target_num        3
+Movement_time		3837.151123
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          803
+Target_num        3
+Movement_time		2124.614258
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          804
+Target_num        2
+Movement_time		1417.405518
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          805
+Target_num        0
+Movement_time		2117.262451
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          806
+Target_num        0
+Movement_time		2195.855469
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          807
+Target_num        3
+Movement_time		2499.421875
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          808
+Target_num        3
+Movement_time		2375.904785
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          809
+Target_num        2
+Movement_time		1793.428589
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          810
+Target_num        2
+Movement_time		1443.209839
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          811
+Target_num        3
+Movement_time		2703.326660
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          812
+Target_num        1
+Movement_time		1447.142700
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          813
+Target_num        0
+Movement_time		1654.911499
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          814
+Target_num        1
+Movement_time		2208.582764
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          815
+Target_num        1
+Movement_time		2976.931641
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          816
+Target_num        3
+Movement_time		4624.418457
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          817
+Target_num        2
+Movement_time		1378.714722
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          818
+Target_num        0
+Movement_time		5210.572266
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          819
+Target_num        1
+Movement_time		1927.387329
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          820
+Target_num        1
+Movement_time		1758.277710
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          821
+Target_num        1
+Movement_time		2673.414063
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          822
+Target_num        0
+Movement_time		2301.164795
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          823
+Target_num        0
+Movement_time		1641.788452
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          824
+Target_num        3
+Movement_time		2072.163818
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          825
+Target_num        2
+Movement_time		1812.417358
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          826
+Target_num        2
+Movement_time		2140.844482
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          827
+Target_num        3
+Movement_time		1773.422241
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          828
+Target_num        1
+Movement_time		1721.042969
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          829
+Target_num        0
+Movement_time		1822.268555
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          830
+Target_num        0
+Movement_time		1924.627075
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          831
+Target_num        0
+Movement_time		1623.138062
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          832
+Target_num        3
+Movement_time		1585.626099
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          833
+Target_num        1
+Movement_time		1601.914185
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          834
+Target_num        1
+Movement_time		1795.578125
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          835
+Target_num        3
+Movement_time		2034.630127
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          836
+Target_num        3
+Movement_time		2294.657471
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          837
+Target_num        2
+Movement_time		1424.529785
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          838
+Target_num        2
+Movement_time		1626.039429
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          839
+Target_num        2
+Movement_time		1737.154053
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          840
+Target_num        2
+Movement_time		2168.130615
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          841
+Target_num        2
+Movement_time		2892.134277
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          842
+Target_num        3
+Movement_time		3017.096680
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          843
+Target_num        2
+Movement_time		2017.960571
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          844
+Target_num        0
+Movement_time		1585.895020
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          845
+Target_num        3
+Movement_time		4343.319824
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          846
+Target_num        3
+Movement_time		3034.635986
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          847
+Target_num        1
+Movement_time		1704.651001
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          848
+Target_num        0
+Movement_time		1660.990723
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          849
+Target_num        1
+Movement_time		1928.587524
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          850
+Target_num        1
+Movement_time		2570.788330
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          851
+Target_num        0
+Movement_time		1709.529175
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          852
+Target_num        3
+Movement_time		1680.639893
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          853
+Target_num        2
+Movement_time		3654.872070
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          854
+Target_num        3
+Movement_time		2088.074219
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          855
+Target_num        0
+Movement_time		2330.600098
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          856
+Target_num        3
+Movement_time		2259.220215
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          857
+Target_num        2
+Movement_time		2710.916260
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          858
+Target_num        1
+Movement_time		2538.397217
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          859
+Target_num        1
+Movement_time		2378.406250
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          860
+Target_num        0
+Movement_time		1618.343628
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          861
+Target_num        1
+Movement_time		1722.190186
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          862
+Target_num        0
+Movement_time		2908.455078
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          863
+Target_num        2
+Movement_time		1832.174805
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          864
+Target_num        3
+Movement_time		1460.700684
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          865
+Target_num        1
+Movement_time		1376.894775
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          866
+Target_num        1
+Movement_time		2839.912109
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          867
+Target_num        1
+Movement_time		3236.078369
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          868
+Target_num        3
+Movement_time		2228.223877
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          869
+Target_num        3
+Movement_time		3255.797607
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          870
+Target_num        2
+Movement_time		3349.450195
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          871
+Target_num        2
+Movement_time		1776.865723
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          872
+Target_num        2
+Movement_time		1338.366211
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          873
+Target_num        0
+Movement_time		5844.813477
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          874
+Target_num        0
+Movement_time		2017.356201
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          875
+Target_num        0
+Movement_time		2809.759521
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          876
+Target_num        1
+Movement_time		2307.117920
+Movement_time		15.000000
+
+
+Task          AdaptiveDecoding
+Trial_id          879
+Target_num        1
+Movement_time		3179.565674
+Movement_time		15.000000

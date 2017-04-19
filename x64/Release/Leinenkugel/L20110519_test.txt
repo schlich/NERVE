@@ -1,0 +1,3314 @@
+
+
+AdaptiveDecode			0.000000
+Alpha			0.100000
+AudioAmp			0.000000
+AudioAmp_2			0.000000
+AudioDeviceName			0.000000
+AudioDur			0.000000
+AudioDur_2			0.000000
+AudioFreq			0.000000
+AudioFreq_2			0.000000
+AudioStim			0.000000
+AudioSweep			0.000000
+AudioWidth			0.000000
+AudioWidth_2			0.000000
+BCIForceRotationDamp			0.000000
+BCIForceRotationInertia			0.000000
+BCIForceRotationXGain			0.000000
+BCIForceRotationYGain			0.000000
+BCIForceRotationZGain			0.000000
+BCIForceTranslationDamp			0.000000
+BCIForceTranslationInertia			0.000000
+BCIForceTranslationXGain			0.000000
+BCIForceTranslationYGain			0.000000
+BCIForceTranslationZGain			0.000000
+BCIPositionRotationXGain			0.000000
+BCIPositionRotationYGain			0.000000
+BCIPositionRotationZGain			0.000000
+BCIPositionTranslationXGain			0.000000
+BCIPositionTranslationYGain			0.000000
+BCIPositionTranslationZGain			0.000000
+BCIVelocityRotationXGain			0.000000
+BCIVelocityRotationYGain			0.000000
+BCIVelocityRotationZGain			0.000000
+BCIVelocityTranslationXGain			1.000000
+BCIVelocityTranslationYGain			0.000000
+BCIVelocityTranslationZGain			1.000000
+Bias			0.000000
+BiasGain			50.000000
+BlackOut			0.000000
+CenterHoldTime			500.000000
+ControlDevice			1.000000
+ControlLoopRate			0.000000
+ControlMode			1.000000
+CurrentBlock			1.000000
+CurrentRewardTier			0.000000
+CurrentSet			1.000000
+CurrentTrial			1.000000
+CursorSize			1.500000
+ElectroActiveChan			0.000000
+ElectroActiveChan_2			0.000000
+ElectroAmp			5000.000000
+ElectroAmp_2			0.000000
+ElectroDeviceName			1.000000
+ElectroDur			10.000000
+ElectroDur_2			0.000000
+ElectroFreq			60.000000
+ElectroFreq_2			0.000000
+ElectroReturnChan			0.000000
+ElectroReturnChan_2			0.000000
+ElectroStim			0.000000
+ElectroSweep			0.000000
+ElectroWidth			50.000000
+ElectroWidth_2			0.000000
+JoystickConnectedLight			1.000000
+JoystickForceRotationDamp			0.000000
+JoystickForceRotationInertia			0.000000
+JoystickForceRotationXGain			0.000000
+JoystickForceRotationYGain			0.000000
+JoystickForceRotationZGain			0.000000
+JoystickForceTranslationDamp			0.000000
+JoystickForceTranslationInertia			0.000000
+JoystickForceTranslationXGain			0.000000
+JoystickForceTranslationYGain			0.000000
+JoystickForceTranslationZGain			0.000000
+JoystickLoopRate			0.000000
+JoystickPositionRotationXGain			0.000000
+JoystickPositionRotationYGain			0.000000
+JoystickPositionRotationZGain			0.000000
+JoystickPositionTranslationXGain			80.000000
+JoystickPositionTranslationYGain			0.000000
+JoystickPositionTranslationZGain			65.000000
+JoystickVelocityRotationXGain			0.000000
+JoystickVelocityRotationYGain			0.000000
+JoystickVelocityRotationZGain			0.000000
+JoystickVelocityTranslationXGain			0.800000
+JoystickVelocityTranslationYGain			1.000000
+JoystickVelocityTranslationZGain			0.800000
+MaxMovementTime			20000.000000
+MedtronicDur			500.000000
+MedtronicStimONOFF			0.000000
+MouseForceRotationDamp			0.000000
+MouseForceRotationInertia			0.000000
+MouseForceRotationXGain			0.000000
+MouseForceRotationYGain			0.000000
+MouseForceRotationZGain			0.000000
+MouseForceTranslationDamp			0.000000
+MouseForceTranslationInertia			0.000000
+MouseForceTranslationXGain			0.000000
+MouseForceTranslationYGain			0.000000
+MouseForceTranslationZGain			0.000000
+MousePositionRotationXGain			0.000000
+MousePositionRotationYGain			0.000000
+MousePositionRotationZGain			0.000000
+MousePositionTranslationXGain			39.000000
+MousePositionTranslationYGain			0.000000
+MousePositionTranslationZGain			26.000000
+MouseVelocityRotationXGain			0.000000
+MouseVelocityRotationYGain			0.000000
+MouseVelocityRotationZGain			0.000000
+MouseVelocityTranslationXGain			10.000000
+MouseVelocityTranslationYGain			0.100000
+MouseVelocityTranslationZGain			10.000000
+NumBlocks			1.000000
+NumRewardTiers			0.000000
+NumSets			1.000000
+NumTargets			8.000000
+NumTrials			1.000000
+PlaybackMode			0.000000
+RestPeriod			0.000000
+RewardDecrement			0.000000
+RewardDeviceName			0.000000
+RewardIncrement			0.000000
+RewardMax			200.000000
+RewardMin			100.000000
+RotationXMax			0.000000
+RotationXMin			0.000000
+RotationYMax			0.000000
+RotationYMin			0.000000
+RotationZMax			0.000000
+RotationZMin			0.000000
+SerialPortBaud			0.000000
+SerialPortLoopRate			0.000000
+SerialPortNum			0.000000
+SweepAmp			0.000000
+SweepAmpMax			0.000000
+SweepAmpMin			0.000000
+SweepAmpValue			0.000000
+SweepDur			0.000000
+SweepDurMax			0.000000
+SweepDurMin			0.000000
+SweepDurValue			0.000000
+SweepFreq			0.000000
+SweepFreqMax			0.000000
+SweepFreqMin			0.000000
+SweepFreqValue			0.000000
+SweepNumAmps			0.000000
+SweepNumDurs			0.000000
+SweepNumFreqs			0.000000
+SweepNumWidths			0.000000
+SweepWidth			0.000000
+SweepWidthMax			0.000000
+SweepWidthMin			0.000000
+SweepWidthValue			0.000000
+TDTConnectedLight			1.000000
+TDTLoopRate			0.000000
+TargetDistance			16.000000
+TargetSize			1.500000
+TimeoutTime			3000.000000
+TranslationXMax			32.000000
+TranslationXMin			-32.000000
+TranslationYMax			0.000000
+TranslationYMin			0.000000
+TranslationZMax			26.000000
+TranslationZMin			-26.000000
+TrialID			0.000000
+UseAuxiliaryRewards			0.000000
+UseRewardTiers			0.000000
+VelocityControl			0.000000
+VibroAmp			3.000000
+VibroAmp_2			3.000000
+VibroAmp_3			0.000000
+VibroDeviceName			0.000000
+VibroDur			750.000000
+VibroDur_2			5000.000000
+VibroDur_3			0.000000
+VibroFreq			100.000000
+VibroFreq_2			100.000000
+VibroFreq_3			0.000000
+VibroStim			2.000000
+VibroSweep			0.000000
+WorkAround			0.000000
+
+
+
+
+Task          AdaptiveDecoding
+Trial_id          2039
+Target_num        3
+Total_targets     8.000000
+Movement_time		2094.721436
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2040
+Target_num        5
+Total_targets     8.000000
+Movement_time		1471.649902
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2041
+Target_num        2
+Total_targets     8.000000
+Movement_time		2184.427734
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2053
+Target_num        0
+Total_targets     8.000000
+Movement_time		3228.069824
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2054
+Target_num        7
+Total_targets     8.000000
+Movement_time		5433.104004
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2055
+Target_num        1
+Total_targets     8.000000
+Movement_time		1607.883911
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2056
+Target_num        6
+Total_targets     8.000000
+Movement_time		2994.978516
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2057
+Target_num        4
+Total_targets     8.000000
+Movement_time		1696.876221
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2058
+Target_num        7
+Total_targets     8.000000
+Movement_time		2732.742432
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2059
+Target_num        6
+Total_targets     8.000000
+Movement_time		2003.237793
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2060
+Target_num        4
+Total_targets     8.000000
+Movement_time		2094.943115
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2061
+Target_num        3
+Total_targets     8.000000
+Movement_time		1713.875610
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2062
+Target_num        0
+Total_targets     8.000000
+Movement_time		2436.956787
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2063
+Target_num        5
+Total_targets     8.000000
+Movement_time		1470.810913
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2064
+Target_num        2
+Total_targets     8.000000
+Movement_time		2188.920898
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2065
+Target_num        1
+Total_targets     8.000000
+Movement_time		1808.987061
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2066
+Target_num        3
+Total_targets     8.000000
+Movement_time		1731.910034
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2067
+Target_num        5
+Total_targets     8.000000
+Movement_time		1578.934570
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2068
+Target_num        0
+Total_targets     8.000000
+Movement_time		1771.914429
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2069
+Target_num        2
+Total_targets     8.000000
+Movement_time		1820.865845
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2070
+Target_num        1
+Total_targets     8.000000
+Movement_time		1960.899414
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2071
+Target_num        4
+Total_targets     8.000000
+Movement_time		1814.775146
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2072
+Target_num        7
+Total_targets     8.000000
+Movement_time		1587.783936
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2073
+Target_num        6
+Total_targets     8.000000
+Movement_time		1933.206665
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2074
+Target_num        6
+Total_targets     8.000000
+Movement_time		1824.623535
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2075
+Target_num        7
+Total_targets     8.000000
+Movement_time		1748.964844
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2076
+Target_num        1
+Total_targets     8.000000
+Movement_time		1528.869141
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2077
+Target_num        2
+Total_targets     8.000000
+Movement_time		1790.685669
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2078
+Target_num        3
+Total_targets     8.000000
+Movement_time		1377.704102
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2079
+Target_num        4
+Total_targets     8.000000
+Movement_time		1719.914185
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2080
+Target_num        5
+Total_targets     8.000000
+Movement_time		1481.532349
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2081
+Target_num        0
+Total_targets     8.000000
+Movement_time		1803.014526
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2082
+Target_num        2
+Total_targets     8.000000
+Movement_time		1726.881958
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2083
+Target_num        5
+Total_targets     8.000000
+Movement_time		1664.916382
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2084
+Target_num        7
+Total_targets     8.000000
+Movement_time		1580.902710
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2085
+Target_num        1
+Total_targets     8.000000
+Movement_time		1792.900513
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2086
+Target_num        6
+Total_targets     8.000000
+Movement_time		1758.892456
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2087
+Target_num        0
+Total_targets     8.000000
+Movement_time		1999.890381
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2088
+Target_num        4
+Total_targets     8.000000
+Movement_time		2048.909180
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2089
+Target_num        3
+Total_targets     8.000000
+Movement_time		5969.289551
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2090
+Target_num        4
+Total_targets     8.000000
+Movement_time		14786.493164
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2101
+Target_num        5
+Total_targets     8.000000
+Movement_time		5764.110352
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2102
+Target_num        1
+Total_targets     8.000000
+Movement_time		1300.878052
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2103
+Target_num        2
+Total_targets     8.000000
+Movement_time		1793.916016
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2104
+Target_num        7
+Total_targets     8.000000
+Movement_time		1906.940430
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2105
+Target_num        0
+Total_targets     8.000000
+Movement_time		1797.180054
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2106
+Target_num        6
+Total_targets     8.000000
+Movement_time		1829.895874
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2107
+Target_num        3
+Total_targets     8.000000
+Movement_time		6508.067383
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2113
+Target_num        6
+Total_targets     8.000000
+Movement_time		10843.151367
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2114
+Target_num        2
+Total_targets     8.000000
+Movement_time		2411.887695
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2115
+Target_num        7
+Total_targets     8.000000
+Movement_time		2134.884766
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2116
+Target_num        3
+Total_targets     8.000000
+Movement_time		2164.883545
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2145
+Target_num        0
+Total_targets     8.000000
+Movement_time		2729.303955
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2146
+Target_num        4
+Total_targets     8.000000
+Movement_time		2618.814941
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2147
+Target_num        5
+Total_targets     8.000000
+Movement_time		2601.987793
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2148
+Target_num        1
+Total_targets     8.000000
+Movement_time		1474.886353
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2149
+Target_num        0
+Total_targets     8.000000
+Movement_time		1977.836670
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2150
+Target_num        7
+Total_targets     8.000000
+Movement_time		1746.917847
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2151
+Target_num        6
+Total_targets     8.000000
+Movement_time		1767.916260
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2152
+Target_num        5
+Total_targets     8.000000
+Movement_time		1668.913696
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2153
+Target_num        1
+Total_targets     8.000000
+Movement_time		1402.649414
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2154
+Target_num        2
+Total_targets     8.000000
+Movement_time		1732.249634
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2155
+Target_num        3
+Total_targets     8.000000
+Movement_time		2038.867432
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2156
+Target_num        4
+Total_targets     8.000000
+Movement_time		3029.926514
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2157
+Target_num        6
+Total_targets     8.000000
+Movement_time		1936.906738
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2158
+Target_num        5
+Total_targets     8.000000
+Movement_time		4981.046875
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2161
+Target_num        1
+Total_targets     8.000000
+Movement_time		11975.511719
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2162
+Target_num        3
+Total_targets     8.000000
+Movement_time		2009.124023
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2163
+Target_num        4
+Total_targets     8.000000
+Movement_time		1922.861450
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2164
+Target_num        0
+Total_targets     8.000000
+Movement_time		2567.900391
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2165
+Target_num        2
+Total_targets     8.000000
+Movement_time		4661.994629
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2166
+Target_num        7
+Total_targets     8.000000
+Movement_time		2372.958252
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2167
+Target_num        7
+Total_targets     8.000000
+Movement_time		2815.724854
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2168
+Target_num        1
+Total_targets     8.000000
+Movement_time		2114.957275
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2169
+Target_num        5
+Total_targets     8.000000
+Movement_time		1434.711548
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2170
+Target_num        0
+Total_targets     8.000000
+Movement_time		1938.660522
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2171
+Target_num        6
+Total_targets     8.000000
+Movement_time		2022.574707
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2172
+Target_num        3
+Total_targets     8.000000
+Movement_time		1505.899414
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2173
+Target_num        2
+Total_targets     8.000000
+Movement_time		3111.958496
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2177
+Target_num        4
+Total_targets     8.000000
+Movement_time		2041.452637
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2178
+Target_num        7
+Total_targets     8.000000
+Movement_time		1492.678223
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2179
+Target_num        1
+Total_targets     8.000000
+Movement_time		1341.793701
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2180
+Target_num        0
+Total_targets     8.000000
+Movement_time		1997.927612
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2181
+Target_num        2
+Total_targets     8.000000
+Movement_time		1768.867676
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2182
+Target_num        3
+Total_targets     8.000000
+Movement_time		1773.920776
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2183
+Target_num        5
+Total_targets     8.000000
+Movement_time		1383.502563
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2184
+Target_num        4
+Total_targets     8.000000
+Movement_time		2022.191650
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2185
+Target_num        6
+Total_targets     8.000000
+Movement_time		1768.887329
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2186
+Target_num        1
+Total_targets     8.000000
+Movement_time		3048.948975
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2187
+Target_num        6
+Total_targets     8.000000
+Movement_time		1809.923706
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2188
+Target_num        2
+Total_targets     8.000000
+Movement_time		2026.187378
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2189
+Target_num        5
+Total_targets     8.000000
+Movement_time		1557.831909
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2191
+Target_num        7
+Total_targets     8.000000
+Movement_time		2558.858398
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2195
+Target_num        3
+Total_targets     8.000000
+Movement_time		9492.500000
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2196
+Target_num        0
+Total_targets     8.000000
+Movement_time		2066.940674
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2197
+Target_num        4
+Total_targets     8.000000
+Movement_time		2549.898438
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2198
+Target_num        3
+Total_targets     8.000000
+Movement_time		1968.892090
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2199
+Target_num        7
+Total_targets     8.000000
+Movement_time		2340.890625
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2200
+Target_num        1
+Total_targets     8.000000
+Movement_time		1868.879517
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2201
+Target_num        5
+Total_targets     8.000000
+Movement_time		1536.786743
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2202
+Target_num        6
+Total_targets     8.000000
+Movement_time		1983.926270
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2203
+Target_num        2
+Total_targets     8.000000
+Movement_time		1694.924927
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2204
+Target_num        4
+Total_targets     8.000000
+Movement_time		1689.951904
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2205
+Target_num        0
+Total_targets     8.000000
+Movement_time		2405.012207
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2206
+Target_num        6
+Total_targets     8.000000
+Movement_time		1878.919556
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2207
+Target_num        7
+Total_targets     8.000000
+Movement_time		2659.979492
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2208
+Target_num        3
+Total_targets     8.000000
+Movement_time		1464.892700
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2209
+Target_num        1
+Total_targets     8.000000
+Movement_time		1411.613647
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2210
+Target_num        5
+Total_targets     8.000000
+Movement_time		1405.881470
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2211
+Target_num        0
+Total_targets     8.000000
+Movement_time		1999.924438
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2212
+Target_num        4
+Total_targets     8.000000
+Movement_time		1713.027588
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2213
+Target_num        2
+Total_targets     8.000000
+Movement_time		1813.901733
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2217
+Target_num        0
+Total_targets     8.000000
+Movement_time		3055.009766
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2218
+Target_num        3
+Total_targets     8.000000
+Movement_time		1428.523560
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2219
+Target_num        1
+Total_targets     8.000000
+Movement_time		2462.896729
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2220
+Target_num        7
+Total_targets     8.000000
+Movement_time		1486.654785
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2221
+Target_num        6
+Total_targets     8.000000
+Movement_time		2104.772949
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2222
+Target_num        5
+Total_targets     8.000000
+Movement_time		1739.897095
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2223
+Target_num        4
+Total_targets     8.000000
+Movement_time		2089.921631
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2224
+Target_num        2
+Total_targets     8.000000
+Movement_time		1990.874390
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2225
+Target_num        3
+Total_targets     8.000000
+Movement_time		2239.886719
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2226
+Target_num        1
+Total_targets     8.000000
+Movement_time		1884.888428
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2227
+Target_num        4
+Total_targets     8.000000
+Movement_time		1700.736938
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2228
+Target_num        0
+Total_targets     8.000000
+Movement_time		2897.904297
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2229
+Target_num        5
+Total_targets     8.000000
+Movement_time		2467.924805
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2230
+Target_num        6
+Total_targets     8.000000
+Movement_time		3582.977539
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2231
+Target_num        7
+Total_targets     8.000000
+Movement_time		2547.957031
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2235
+Target_num        2
+Total_targets     8.000000
+Movement_time		1702.927612
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2236
+Target_num        1
+Total_targets     8.000000
+Movement_time		1858.302246
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2237
+Target_num        2
+Total_targets     8.000000
+Movement_time		1906.935913
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2238
+Target_num        4
+Total_targets     8.000000
+Movement_time		2102.951172
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2239
+Target_num        6
+Total_targets     8.000000
+Movement_time		2289.944092
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2240
+Target_num        3
+Total_targets     8.000000
+Movement_time		2171.985596
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2241
+Target_num        0
+Total_targets     8.000000
+Movement_time		2051.758057
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2242
+Target_num        5
+Total_targets     8.000000
+Movement_time		1519.922119
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2243
+Target_num        7
+Total_targets     8.000000
+Movement_time		1699.602783
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2244
+Target_num        4
+Total_targets     8.000000
+Movement_time		1721.715210
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2245
+Target_num        6
+Total_targets     8.000000
+Movement_time		2572.881348
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2246
+Target_num        3
+Total_targets     8.000000
+Movement_time		2977.244873
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2247
+Target_num        0
+Total_targets     8.000000
+Movement_time		2182.875977
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2248
+Target_num        2
+Total_targets     8.000000
+Movement_time		1703.874878
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2249
+Target_num        1
+Total_targets     8.000000
+Movement_time		1672.741943
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2250
+Target_num        5
+Total_targets     8.000000
+Movement_time		1393.985352
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2251
+Target_num        7
+Total_targets     8.000000
+Movement_time		2795.089844
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2252
+Target_num        1
+Total_targets     8.000000
+Movement_time		1991.072266
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2253
+Target_num        0
+Total_targets     8.000000
+Movement_time		2583.687500
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2254
+Target_num        5
+Total_targets     8.000000
+Movement_time		1436.961426
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2255
+Target_num        7
+Total_targets     8.000000
+Movement_time		2218.862549
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2256
+Target_num        6
+Total_targets     8.000000
+Movement_time		2285.874756
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2257
+Target_num        2
+Total_targets     8.000000
+Movement_time		2675.162598
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2258
+Target_num        3
+Total_targets     8.000000
+Movement_time		1905.885132
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2259
+Target_num        4
+Total_targets     8.000000
+Movement_time		2858.183105
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2260
+Target_num        2
+Total_targets     8.000000
+Movement_time		1912.868530
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2261
+Target_num        3
+Total_targets     8.000000
+Movement_time		1489.213745
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2262
+Target_num        7
+Total_targets     8.000000
+Movement_time		1782.881348
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2263
+Target_num        5
+Total_targets     8.000000
+Movement_time		1555.947144
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2264
+Target_num        1
+Total_targets     8.000000
+Movement_time		1906.983154
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2265
+Target_num        6
+Total_targets     8.000000
+Movement_time		2040.874146
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2266
+Target_num        0
+Total_targets     8.000000
+Movement_time		3272.993652
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2267
+Target_num        4
+Total_targets     8.000000
+Movement_time		1748.936035
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2268
+Target_num        3
+Total_targets     8.000000
+Movement_time		1524.733032
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2269
+Target_num        7
+Total_targets     8.000000
+Movement_time		2128.910645
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2270
+Target_num        0
+Total_targets     8.000000
+Movement_time		2049.855225
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2271
+Target_num        1
+Total_targets     8.000000
+Movement_time		1577.859253
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2272
+Target_num        2
+Total_targets     8.000000
+Movement_time		5911.111328
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2273
+Target_num        5
+Total_targets     8.000000
+Movement_time		1439.767578
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2274
+Target_num        6
+Total_targets     8.000000
+Movement_time		2131.869141
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2275
+Target_num        4
+Total_targets     8.000000
+Movement_time		1917.478149
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2276
+Target_num        3
+Total_targets     8.000000
+Movement_time		2034.943848
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2277
+Target_num        1
+Total_targets     8.000000
+Movement_time		1699.218872
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2278
+Target_num        7
+Total_targets     8.000000
+Movement_time		1584.109741
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2279
+Target_num        4
+Total_targets     8.000000
+Movement_time		3350.028320
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2280
+Target_num        2
+Total_targets     8.000000
+Movement_time		4823.986816
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2281
+Target_num        6
+Total_targets     8.000000
+Movement_time		1857.196045
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2282
+Target_num        5
+Total_targets     8.000000
+Movement_time		1840.911255
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2283
+Target_num        0
+Total_targets     8.000000
+Movement_time		3863.007568
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2284
+Target_num        7
+Total_targets     8.000000
+Movement_time		3338.972168
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2285
+Target_num        3
+Total_targets     8.000000
+Movement_time		3017.978760
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2286
+Target_num        4
+Total_targets     8.000000
+Movement_time		2740.783203
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2287
+Target_num        6
+Total_targets     8.000000
+Movement_time		2076.940186
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2288
+Target_num        2
+Total_targets     8.000000
+Movement_time		2006.139648
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2289
+Target_num        1
+Total_targets     8.000000
+Movement_time		1572.859009
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2290
+Target_num        5
+Total_targets     8.000000
+Movement_time		3266.598633
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2291
+Target_num        0
+Total_targets     8.000000
+Movement_time		3862.020752
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2292
+Target_num        0
+Total_targets     8.000000
+Movement_time		2898.250000
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2293
+Target_num        7
+Total_targets     8.000000
+Movement_time		2271.924316
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2294
+Target_num        6
+Total_targets     8.000000
+Movement_time		2117.944824
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2295
+Target_num        5
+Total_targets     8.000000
+Movement_time		1490.597534
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2296
+Target_num        1
+Total_targets     8.000000
+Movement_time		1969.708008
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2297
+Target_num        4
+Total_targets     8.000000
+Movement_time		1666.073853
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2298
+Target_num        3
+Total_targets     8.000000
+Movement_time		1495.629395
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2299
+Target_num        2
+Total_targets     8.000000
+Movement_time		2380.878662
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2300
+Target_num        4
+Total_targets     8.000000
+Movement_time		1777.787231
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2301
+Target_num        3
+Total_targets     8.000000
+Movement_time		2010.637207
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2302
+Target_num        6
+Total_targets     8.000000
+Movement_time		5241.310547
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2303
+Target_num        7
+Total_targets     8.000000
+Movement_time		1526.883789
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2304
+Target_num        2
+Total_targets     8.000000
+Movement_time		2745.943359
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2305
+Target_num        0
+Total_targets     8.000000
+Movement_time		2261.895264
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2306
+Target_num        1
+Total_targets     8.000000
+Movement_time		2964.462402
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2307
+Target_num        5
+Total_targets     8.000000
+Movement_time		1636.904175
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2308
+Target_num        6
+Total_targets     8.000000
+Movement_time		2882.822510
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2309
+Target_num        3
+Total_targets     8.000000
+Movement_time		1850.605225
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2310
+Target_num        1
+Total_targets     8.000000
+Movement_time		4679.995605
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2311
+Target_num        4
+Total_targets     8.000000
+Movement_time		2558.607178
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2312
+Target_num        7
+Total_targets     8.000000
+Movement_time		1690.848755
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2314
+Target_num        0
+Total_targets     8.000000
+Movement_time		13865.670898
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2315
+Target_num        2
+Total_targets     8.000000
+Movement_time		2712.711914
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2316
+Target_num        5
+Total_targets     8.000000
+Movement_time		1914.204712
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2317
+Target_num        5
+Total_targets     8.000000
+Movement_time		1829.945923
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2318
+Target_num        4
+Total_targets     8.000000
+Movement_time		4163.148926
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2319
+Target_num        0
+Total_targets     8.000000
+Movement_time		3346.344238
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2320
+Target_num        7
+Total_targets     8.000000
+Movement_time		2134.852295
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2321
+Target_num        2
+Total_targets     8.000000
+Movement_time		2284.931885
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2322
+Target_num        3
+Total_targets     8.000000
+Movement_time		1758.886719
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2323
+Target_num        6
+Total_targets     8.000000
+Movement_time		2022.955444
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2324
+Target_num        1
+Total_targets     8.000000
+Movement_time		1995.045898
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2325
+Target_num        5
+Total_targets     8.000000
+Movement_time		1634.890869
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2326
+Target_num        3
+Total_targets     8.000000
+Movement_time		1892.907837
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2327
+Target_num        4
+Total_targets     8.000000
+Movement_time		1758.848511
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2328
+Target_num        6
+Total_targets     8.000000
+Movement_time		2032.837036
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2329
+Target_num        7
+Total_targets     8.000000
+Movement_time		1663.863037
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2330
+Target_num        1
+Total_targets     8.000000
+Movement_time		2336.717529
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2331
+Target_num        0
+Total_targets     8.000000
+Movement_time		2334.886475
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2332
+Target_num        2
+Total_targets     8.000000
+Movement_time		1774.014404
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2333
+Target_num        4
+Total_targets     8.000000
+Movement_time		1752.877197
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2334
+Target_num        6
+Total_targets     8.000000
+Movement_time		2208.885742
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2335
+Target_num        0
+Total_targets     8.000000
+Movement_time		3015.678467
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2336
+Target_num        3
+Total_targets     8.000000
+Movement_time		1418.609497
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2337
+Target_num        5
+Total_targets     8.000000
+Movement_time		1395.848267
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2338
+Target_num        2
+Total_targets     8.000000
+Movement_time		1699.139160
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2339
+Target_num        1
+Total_targets     8.000000
+Movement_time		1762.843872
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2340
+Target_num        7
+Total_targets     8.000000
+Movement_time		1561.867920
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2341
+Target_num        0
+Total_targets     8.000000
+Movement_time		1972.911255
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2342
+Target_num        3
+Total_targets     8.000000
+Movement_time		1539.185181
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2343
+Target_num        7
+Total_targets     8.000000
+Movement_time		1450.855591
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2344
+Target_num        2
+Total_targets     8.000000
+Movement_time		2000.909058
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2345
+Target_num        1
+Total_targets     8.000000
+Movement_time		1489.904907
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2346
+Target_num        4
+Total_targets     8.000000
+Movement_time		1853.832642
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2347
+Target_num        5
+Total_targets     8.000000
+Movement_time		1423.194458
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2348
+Target_num        6
+Total_targets     8.000000
+Movement_time		1917.770142
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2349
+Target_num        5
+Total_targets     8.000000
+Movement_time		1687.151855
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2350
+Target_num        0
+Total_targets     8.000000
+Movement_time		2156.762695
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2351
+Target_num        1
+Total_targets     8.000000
+Movement_time		1534.726685
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2352
+Target_num        6
+Total_targets     8.000000
+Movement_time		1729.639282
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2353
+Target_num        4
+Total_targets     8.000000
+Movement_time		2188.939697
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2354
+Target_num        2
+Total_targets     8.000000
+Movement_time		2463.573242
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2355
+Target_num        3
+Total_targets     8.000000
+Movement_time		1520.146362
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2356
+Target_num        7
+Total_targets     8.000000
+Movement_time		1617.988892
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2357
+Target_num        0
+Total_targets     8.000000
+Movement_time		2187.889893
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2358
+Target_num        1
+Total_targets     8.000000
+Movement_time		1511.746704
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2359
+Target_num        3
+Total_targets     8.000000
+Movement_time		1582.871216
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2360
+Target_num        4
+Total_targets     8.000000
+Movement_time		1764.701904
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2361
+Target_num        2
+Total_targets     8.000000
+Movement_time		1840.910767
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2362
+Target_num        7
+Total_targets     8.000000
+Movement_time		1467.857300
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2363
+Target_num        6
+Total_targets     8.000000
+Movement_time		1832.881470
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2364
+Target_num        5
+Total_targets     8.000000
+Movement_time		1494.615479
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2365
+Target_num        2
+Total_targets     8.000000
+Movement_time		2111.909180
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2366
+Target_num        0
+Total_targets     8.000000
+Movement_time		1860.835449
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2367
+Target_num        1
+Total_targets     8.000000
+Movement_time		1616.843628
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2368
+Target_num        4
+Total_targets     8.000000
+Movement_time		1660.909912
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2369
+Target_num        5
+Total_targets     8.000000
+Movement_time		1364.817139
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2370
+Target_num        7
+Total_targets     8.000000
+Movement_time		2176.806396
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2371
+Target_num        6
+Total_targets     8.000000
+Movement_time		2052.891357
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2372
+Target_num        3
+Total_targets     8.000000
+Movement_time		1702.840942
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2373
+Target_num        3
+Total_targets     8.000000
+Movement_time		1624.832642
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2374
+Target_num        6
+Total_targets     8.000000
+Movement_time		1669.142090
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2375
+Target_num        7
+Total_targets     8.000000
+Movement_time		1571.919556
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2376
+Target_num        0
+Total_targets     8.000000
+Movement_time		2473.677002
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2377
+Target_num        4
+Total_targets     8.000000
+Movement_time		1967.576538
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2378
+Target_num        2
+Total_targets     8.000000
+Movement_time		1698.997070
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2379
+Target_num        1
+Total_targets     8.000000
+Movement_time		1394.859497
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2380
+Target_num        5
+Total_targets     8.000000
+Movement_time		1376.096924
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2381
+Target_num        3
+Total_targets     8.000000
+Movement_time		1486.654419
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2382
+Target_num        4
+Total_targets     8.000000
+Movement_time		1726.898071
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2383
+Target_num        0
+Total_targets     8.000000
+Movement_time		2118.603027
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2384
+Target_num        1
+Total_targets     8.000000
+Movement_time		1389.893921
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2385
+Target_num        6
+Total_targets     8.000000
+Movement_time		1817.911499
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2386
+Target_num        2
+Total_targets     8.000000
+Movement_time		1893.837524
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2387
+Target_num        7
+Total_targets     8.000000
+Movement_time		1378.879395
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2388
+Target_num        5
+Total_targets     8.000000
+Movement_time		1552.898315
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2389
+Target_num        6
+Total_targets     8.000000
+Movement_time		2080.537354
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2390
+Target_num        3
+Total_targets     8.000000
+Movement_time		1461.897949
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2391
+Target_num        4
+Total_targets     8.000000
+Movement_time		1670.996826
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2392
+Target_num        7
+Total_targets     8.000000
+Movement_time		1702.978516
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2393
+Target_num        1
+Total_targets     8.000000
+Movement_time		1614.088379
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2394
+Target_num        0
+Total_targets     8.000000
+Movement_time		2472.200195
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2395
+Target_num        5
+Total_targets     8.000000
+Movement_time		1468.911865
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2396
+Target_num        2
+Total_targets     8.000000
+Movement_time		1809.913818
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2397
+Target_num        1
+Total_targets     8.000000
+Movement_time		1880.754272
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2398
+Target_num        4
+Total_targets     8.000000
+Movement_time		1767.545044
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2399
+Target_num        5
+Total_targets     8.000000
+Movement_time		1520.549927
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2400
+Target_num        7
+Total_targets     8.000000
+Movement_time		1805.907837
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2401
+Target_num        3
+Total_targets     8.000000
+Movement_time		2485.154053
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2402
+Target_num        0
+Total_targets     8.000000
+Movement_time		1991.907104
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2403
+Target_num        2
+Total_targets     8.000000
+Movement_time		1877.812134
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2404
+Target_num        6
+Total_targets     8.000000
+Movement_time		1753.962891
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2405
+Target_num        2
+Total_targets     8.000000
+Movement_time		3336.933105
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2406
+Target_num        7
+Total_targets     8.000000
+Movement_time		1453.223267
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2407
+Target_num        1
+Total_targets     8.000000
+Movement_time		1479.904541
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2408
+Target_num        3
+Total_targets     8.000000
+Movement_time		1428.777710
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2409
+Target_num        6
+Total_targets     8.000000
+Movement_time		1911.910522
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2410
+Target_num        4
+Total_targets     8.000000
+Movement_time		1988.848755
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2411
+Target_num        5
+Total_targets     8.000000
+Movement_time		1575.869751
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2412
+Target_num        0
+Total_targets     8.000000
+Movement_time		2022.861328
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2413
+Target_num        7
+Total_targets     8.000000
+Movement_time		1466.899780
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2414
+Target_num        0
+Total_targets     8.000000
+Movement_time		1735.082153
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2415
+Target_num        1
+Total_targets     8.000000
+Movement_time		1604.855957
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2416
+Target_num        6
+Total_targets     8.000000
+Movement_time		1754.883911
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2417
+Target_num        3
+Total_targets     8.000000
+Movement_time		1881.937622
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2418
+Target_num        5
+Total_targets     8.000000
+Movement_time		1798.986328
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2419
+Target_num        4
+Total_targets     8.000000
+Movement_time		1739.927002
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2420
+Target_num        2
+Total_targets     8.000000
+Movement_time		1759.535034
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
+
+
+Task          AdaptiveDecoding
+Trial_id          2421
+Target_num        2
+Total_targets     8.000000
+Movement_time		1979.616699
+Bias_on		    0.000000
+Bias_gain		    50.000000
+Alpha             0.100000
